@@ -1,0 +1,1266 @@
+{
+  "cinema": [
+    {
+      "id": 1,
+      "name": "Ticketor Nova Vida",
+      "location": "Luanda / Estrada Projecto Nova Vida Av. Pedro de Castro Van-Dúnem Loy",
+      "coordinates": {
+        "latitude": -8.89658,
+        "longitude": 13.22561
+      }
+    },
+    {
+      "id": 2,
+      "name": "Ticketor Fortaleza",
+      "location": "Luanda / Marginal de Luanda",
+      "coordinates": {
+        "latitude": -8.83512,
+        "longitude": 13.24357
+      }
+    },
+    {
+      "id": 3,
+      "name": "Ticketor Benguela",
+      "location": "Benguela / Estrada do Calohombo, Bairro do Calohombo, Direcção Baia Farta",
+      "coordinates": {
+        "latitude": -12.5773,
+        "longitude": 13.4052
+      }
+    },
+    {
+      "id": 4,
+      "name": "Ticketor Kilamba",
+      "location": "Luanda / Cidade do Kilamba",
+      "coordinates": {
+        "latitude": -8.99034,
+        "longitude": 13.28881
+      }
+    },
+    {
+      "id": 5,
+      "name": "Ticketor Huambo",
+      "location": "Huambo / Bairro São João, Estrada em direcção ao Kuito Nº 120 – M",
+      "coordinates": {
+        "latitude": -12.76014,
+        "longitude": 15.76285
+      }
+    },
+    {
+      "id": 6,
+      "name": "Ticketor Lubango",
+      "location": "Huíla / Cidade do Lubango",
+      "coordinates": {
+        "latitude": -14.93062,
+        "longitude": 13.4816
+      }
+    },
+    {
+      "id": 7,
+      "name": "Ticketor Talatona",
+      "location": "Luanda / Talatona",
+      "coordinates": {
+        "latitude": -8.92517,
+        "longitude": 13.18522
+      }
+    }
+  ],
+  "movies": [
+    {
+      "id": 1,
+      "title": "Akira",
+      "description": "A secret military project endangers Neo-Tokyo when it turns a biker gang member into a rampaging psychic psychopath who can only be stopped by a teenager, his biker friend, and a group of psychics.",
+      "image": "akira-1988.jpg",
+      "slug": "akira-1988",
+      "director": "Katsuhiro Ôtomo",
+      "writers": ["Katsuhiro Ôtomo", "Izô Hashimoto"],
+      "cast": [
+        {
+          "name": "Mitsuo Iwata",
+          "character": "Kaneda"
+        },
+        {
+          "name": "Nozomu Sasaki",
+          "character": "Tetsuo"
+        },
+        {
+          "name": "Mami Koyama",
+          "character": "Kei"
+        }
+      ],
+      "rating": 8.0,
+      "duration": 124,
+      "releaseDate": "1988-07-16",
+      "genres": ["Animation", "Action", "Drama", "Sci-Fi", "Thriller"],
+      "trailer": "https://www.youtube.com/watch?v=nA8KmHC2Z-g",
+      "classification": "R",
+      "status": "CURRENTLY_IN_CINEMAS"
+    },
+    {
+      "id": 2,
+      "title": "Bugonia",
+      "description": "Two conspiracy-obsessed young men kidnap the high-powered CEO of a major company, convinced that she is an alien intent on destroying planet Earth.",
+      "image": "bugonia.jpg",
+      "slug": "bugonia",
+      "director": "Yorgos Lanthimos",
+      "writers": ["Will Tracy"],
+      "cast": [
+        {
+          "name": "Emma Stone",
+          "character": "CEO"
+        },
+        {
+          "name": "Jesse Plemons",
+          "character": "Kidnapper"
+        },
+        {
+          "name": "Alicia Silverstone",
+          "character": "Supporting Role"
+        }
+      ],
+      "rating": 7.2,
+      "duration": 110,
+      "releaseDate": "2025-11-07",
+      "genres": ["Comedy", "Sci-Fi", "Thriller"],
+      "trailer": "https://www.youtube.com/watch?v=example",
+      "classification": "R",
+      "status": "CURRENTLY_IN_CINEMAS"
+    },
+    {
+      "id": 3,
+      "title": "David",
+      "description": "The story of the shepherd boy who became one of the most legendary kings in history, focusing on his early years and his battle against the giant Goliath.",
+      "image": "david.jpg",
+      "slug": "david",
+      "director": "Michael B. Jordan",
+      "writers": ["Ryan Coogler"],
+      "cast": [
+        {
+          "name": "To be announced",
+          "character": "David"
+        }
+      ],
+      "rating": 7.5,
+      "duration": 120,
+      "releaseDate": "2025-12-25",
+      "genres": ["Drama", "History", "Adventure"],
+      "trailer": "https://www.youtube.com/watch?v=example",
+      "classification": "PG-13",
+      "status": "CURRENTLY_IN_CINEMAS"
+    },
+    {
+      "id": 4,
+      "title": "Der Tiger",
+      "description": "A gripping thriller about survival and determination in the face of nature's deadliest predator.",
+      "image": "der-tiger.jpg",
+      "slug": "der-tiger",
+      "director": "Various",
+      "writers": ["Various"],
+      "cast": [
+        {
+          "name": "To be announced",
+          "character": "Lead Role"
+        }
+      ],
+      "rating": 7.0,
+      "duration": 105,
+      "releaseDate": "2025-03-15",
+      "genres": ["Thriller", "Drama", "Adventure"],
+      "trailer": "https://www.youtube.com/watch?v=example",
+      "classification": "PG-13",
+      "status": "CURRENTLY_IN_CINEMAS"
+    },
+    {
+      "id": 5,
+      "title": "Eleanor the Great",
+      "description": "Follows a 90-year-old woman who runs away from her retirement home to attend the 70th anniversary of the Woodstock Music Festival.",
+      "image": "eleanor-the-Great.jpg",
+      "slug": "eleanor-the-great",
+      "director": "Scarlett Johansson",
+      "writers": ["Paco Cabezas", "Nick Payne"],
+      "cast": [
+        {
+          "name": "June Squibb",
+          "character": "Eleanor"
+        },
+        {
+          "name": "Chiwetel Ejiofor",
+          "character": "Supporting Role"
+        },
+        {
+          "name": "Jessica Hecht",
+          "character": "Supporting Role"
+        }
+      ],
+      "rating": 7.3,
+      "duration": 95,
+      "releaseDate": "2025-05-09",
+      "genres": ["Comedy", "Drama", "Adventure"],
+      "trailer": "https://www.youtube.com/watch?v=example",
+      "classification": "PG-13",
+      "status": "CURRENTLY_IN_CINEMAS"
+    },
+    {
+      "id": 6,
+      "title": "Now You See Me 3",
+      "description": "The Four Horsemen return for their most daring and astounding heist yet, pushing the boundaries of illusion and magic to new extremes.",
+      "image": "now-you-see-me-3.jpg",
+      "slug": "now-you-see-me-3",
+      "director": "Ruben Fleischer",
+      "writers": ["Eric Warren Singer", "Seth Grahame-Smith"],
+      "cast": [
+        {
+          "name": "Jesse Eisenberg",
+          "character": "J. Daniel Atlas"
+        },
+        {
+          "name": "Woody Harrelson",
+          "character": "Merritt McKinney"
+        },
+        {
+          "name": "Dave Franco",
+          "character": "Jack Wilder"
+        },
+        {
+          "name": "Rosamund Pike",
+          "character": "New Character"
+        }
+      ],
+      "rating": 7.4,
+      "duration": 125,
+      "releaseDate": "2025-11-14",
+      "genres": ["Action", "Mystery", "Thriller"],
+      "trailer": "https://www.youtube.com/watch?v=example",
+      "classification": "PG-13",
+      "status": "CURRENTLY_IN_CINEMAS"
+    },
+    {
+      "id": 7,
+      "title": "The Nuremberg Trials",
+      "description": "A historical drama depicting the landmark military tribunals held after World War II to bring Nazi war criminals to justice.",
+      "image": "nuremberga.jpg",
+      "slug": "the-nuremberg-trials",
+      "director": "James Kent",
+      "writers": ["Various"],
+      "cast": [
+        {
+          "name": "Russell Crowe",
+          "character": "Justice Robert H. Jackson"
+        },
+        {
+          "name": "Rami Malek",
+          "character": "Supporting Role"
+        },
+        {
+          "name": "Michael Shannon",
+          "character": "Supporting Role"
+        }
+      ],
+      "rating": 7.8,
+      "duration": 145,
+      "releaseDate": "2025-09-26",
+      "genres": ["Drama", "History", "War"],
+      "trailer": "https://www.youtube.com/watch?v=example",
+      "classification": "R",
+      "status": "CURRENTLY_IN_CINEMAS"
+    },
+    {
+      "id": 8,
+      "title": "The Other",
+      "description": "A psychological thriller exploring themes of identity, duality, and the darkness that lurks within human nature.",
+      "image": "other.jpg",
+      "slug": "the-other",
+      "director": "Various",
+      "writers": ["Various"],
+      "cast": [
+        {
+          "name": "To be announced",
+          "character": "Lead Role"
+        }
+      ],
+      "rating": 7.1,
+      "duration": 108,
+      "releaseDate": "2025-10-17",
+      "genres": ["Thriller", "Mystery", "Horror"],
+      "trailer": "https://www.youtube.com/watch?v=example",
+      "classification": "R",
+      "status": "CURRENTLY_IN_CINEMAS"
+    },
+    {
+      "id": 9,
+      "title": "The SpongeBob Movie: Search for SquarePants",
+      "description": "SpongeBob SquarePants embarks on an epic underwater adventure to find himself after mysteriously going missing from Bikini Bottom.",
+      "image": "the-spongebob.jpg",
+      "slug": "the-spongebob-movie-search-for-squarepants",
+      "director": "Derek Drymon",
+      "writers": ["Stephen Hillenburg", "Derek Drymon", "Tim Hill"],
+      "cast": [
+        {
+          "name": "Tom Kenny",
+          "character": "SpongeBob SquarePants"
+        },
+        {
+          "name": "Bill Fagerbakke",
+          "character": "Patrick Star"
+        },
+        {
+          "name": "Rodger Bumpass",
+          "character": "Squidward Tentacles"
+        },
+        {
+          "name": "Clancy Brown",
+          "character": "Mr. Krabs"
+        }
+      ],
+      "rating": 7.2,
+      "duration": 92,
+      "releaseDate": "2025-12-19",
+      "genres": ["Animation", "Comedy", "Family", "Adventure"],
+      "trailer": "https://www.youtube.com/watch?v=example",
+      "classification": "PG",
+      "status": "CURRENTLY_IN_CINEMAS"
+    },
+    {
+      "id": 10,
+      "title": "Wake Up Dead Man: A Knives Out Mystery",
+      "description": "Detective Benoit Blanc returns to solve another intricate mystery filled with twists, turns, and unexpected revelations.",
+      "image": "wke-up-dead-man.jpg",
+      "slug": "wake-up-dead-man-knives-out",
+      "director": "Rian Johnson",
+      "writers": ["Rian Johnson"],
+      "cast": [
+        {
+          "name": "Daniel Craig",
+          "character": "Benoit Blanc"
+        },
+        {
+          "name": "Josh O'Connor",
+          "character": "Supporting Role"
+        },
+        {
+          "name": "Cailee Spaeny",
+          "character": "Supporting Role"
+        },
+        {
+          "name": "Andrew Scott",
+          "character": "Supporting Role"
+        }
+      ],
+      "rating": 8.1,
+      "duration": 140,
+      "releaseDate": "2025-08-01",
+      "genres": ["Mystery", "Comedy", "Crime", "Thriller"],
+      "trailer": "https://www.youtube.com/watch?v=example",
+      "classification": "PG-13",
+      "status": "CURRENTLY_IN_CINEMAS"
+    },
+    {
+      "id": 11,
+      "title": "Zootopia 2",
+      "description": "Judy Hopps and Nick Wilde return for a new adventure in the mammal metropolis of Zootopia, facing new challenges and uncovering deeper conspiracies.",
+      "image": "zootopia-2.webp",
+      "slug": "zootopia-2",
+      "director": "Byron Howard",
+      "writers": ["Jared Bush", "Phil Johnston"],
+      "cast": [
+        {
+          "name": "Ginnifer Goodwin",
+          "character": "Judy Hopps"
+        },
+        {
+          "name": "Jason Bateman",
+          "character": "Nick Wilde"
+        },
+        {
+          "name": "Idris Elba",
+          "character": "Chief Bogo"
+        },
+        {
+          "name": "Jenny Slate",
+          "character": "Bellwether"
+        }
+      ],
+      "rating": 7.9,
+      "duration": 108,
+      "releaseDate": "2025-11-26",
+      "genres": ["Animation", "Adventure", "Comedy", "Family"],
+      "trailer": "https://www.youtube.com/watch?v=example",
+      "classification": "PG",
+      "status": "CURRENTLY_IN_CINEMAS"
+    },
+    {
+      "id": 12,
+      "title": "Anaconda",
+      "description": "A documentary film crew traveling through the Amazon jungle picks up a stranded snake hunter who forces them along on his quest to capture the world's largest and deadliest anaconda.",
+      "image": "anaconda.jpg",
+      "slug": "anaconda-1997",
+      "director": "Luis Llosa",
+      "writers": ["Hans Bauer", "Jim Cash", "Jack Epps Jr."],
+      "cast": [
+        {
+          "name": "Jennifer Lopez",
+          "character": "Terri Flores"
+        },
+        {
+          "name": "Ice Cube",
+          "character": "Danny Rich"
+        },
+        {
+          "name": "Jon Voight",
+          "character": "Paul Serone"
+        },
+        {
+          "name": "Eric Stoltz",
+          "character": "Dr. Steven Cale"
+        },
+        {
+          "name": "Jonathan Hyde",
+          "character": "Warren Westridge"
+        },
+        {
+          "name": "Owen Wilson",
+          "character": "Gary Dixon"
+        }
+      ],
+      "rating": 4.9,
+      "duration": 89,
+      "releaseDate": "1997-04-11",
+      "genres": ["Action", "Adventure", "Horror", "Thriller"],
+      "trailer": "https://www.youtube.com/watch?v=example",
+      "classification": "PG-13",
+      "status": "TOP_10_MOVIES_THIS_WEEK"
+    },
+    {
+      "id": 13,
+      "title": "Avatar: Fire and Ash",
+      "description": "Jake and Neytiri's family grapples with grief, encountering a new, aggressive Na'vi tribe, the Ash People, who are led by the fiery Varang, as the conflict on Pandora escalates and a new moral focus emerges.",
+      "image": "avatar.webp",
+      "slug": "avatar-fire-and-ash",
+      "director": "James Cameron",
+      "writers": [
+        "James Cameron",
+        "Rick Jaffa",
+        "Amanda Silver",
+        "Josh Friedman",
+        "Shane Salerno"
+      ],
+      "cast": [
+        {
+          "name": "Sam Worthington",
+          "character": "Jake Sully"
+        },
+        {
+          "name": "Zoe Saldaña",
+          "character": "Neytiri"
+        },
+        {
+          "name": "Sigourney Weaver",
+          "character": "Kiri"
+        },
+        {
+          "name": "Stephen Lang",
+          "character": "Colonel Miles Quaritch"
+        },
+        {
+          "name": "Kate Winslet",
+          "character": "Ronal"
+        },
+        {
+          "name": "Cliff Curtis",
+          "character": "Tonowari"
+        },
+        {
+          "name": "Jack Champion",
+          "character": "Spider"
+        },
+        {
+          "name": "Oona Chaplin",
+          "character": "Varang"
+        }
+      ],
+      "rating": 7.4,
+      "duration": 198,
+      "releaseDate": "2025-12-19",
+      "genres": ["Action", "Adventure", "Fantasy", "Sci-Fi"],
+      "trailer": "https://www.youtube.com/watch?v=example",
+      "classification": "PG-13",
+      "status": "TOP_10_MOVIES_THIS_WEEK"
+    },
+    {
+      "id": 14,
+      "title": "Greenland 2: Migration",
+      "description": "Five years after the Clarke interstellar comet destroyed most of Earth, the Garrity family must leave the safety of the Greenland bunker and embark on a perilous journey across the wasteland of Europe to find a new home.",
+      "image": "greenland-2.jpg",
+      "slug": "greenland-2-migration",
+      "director": "Ric Roman Waugh",
+      "writers": ["Chris Sparling", "Mitchell LaFortune"],
+      "cast": [
+        {
+          "name": "Gerard Butler",
+          "character": "John Garrity"
+        },
+        {
+          "name": "Morena Baccarin",
+          "character": "Allison Garrity"
+        },
+        {
+          "name": "Roman Griffin Davis",
+          "character": "Nathan Garrity"
+        },
+        {
+          "name": "Amber Rose Revah",
+          "character": "Supporting Role"
+        },
+        {
+          "name": "Tommie Earl Jenkins",
+          "character": "Supporting Role"
+        }
+      ],
+      "rating": 6.1,
+      "duration": 119,
+      "releaseDate": "2026-01-09",
+      "genres": ["Action", "Adventure", "Thriller", "Disaster"],
+      "trailer": "https://www.youtube.com/watch?v=example",
+      "classification": "PG-13",
+      "status": "TOP_10_MOVIES_THIS_WEEK"
+    },
+    {
+      "id": 15,
+      "title": "Paddington in Peru",
+      "description": "Paddington returns to Peru to visit his beloved Aunt Lucy, who now resides at the Home for Retired Bears. With the Brown Family in tow, a thrilling adventure ensues when a mystery plunges them into an unexpected journey through the Amazon rainforest.",
+      "image": "paddington-in-peru.jpg",
+      "slug": "paddington-in-peru",
+      "director": "Dougal Wilson",
+      "writers": ["Mark Burton", "Jon Foster", "James Lamont"],
+      "cast": [
+        {
+          "name": "Ben Whishaw",
+          "character": "Paddington Brown (voice)"
+        },
+        {
+          "name": "Hugh Bonneville",
+          "character": "Henry Brown"
+        },
+        {
+          "name": "Emily Mortimer",
+          "character": "Mary Brown"
+        },
+        {
+          "name": "Antonio Banderas",
+          "character": "Hunter Cabot"
+        },
+        {
+          "name": "Olivia Colman",
+          "character": "Reverend Mother"
+        },
+        {
+          "name": "Julie Walters",
+          "character": "Mrs. Bird"
+        }
+      ],
+      "rating": 6.6,
+      "duration": 106,
+      "releaseDate": "2024-11-08",
+      "genres": ["Adventure", "Comedy", "Family", "Animation"],
+      "trailer": "https://www.youtube.com/watch?v=example",
+      "classification": "PG",
+      "status": "TOP_10_MOVIES_THIS_WEEK"
+    },
+    {
+      "id": 16,
+      "title": "The Housemaid",
+      "description": "A struggling young woman is relieved by the chance for a fresh start as a maid for a wealthy couple. But what begins as a dream job quickly unravels into something far more dangerous—a sexy, seductive game of secrets, scandal, and power.",
+      "image": "the-housemaid.webp",
+      "slug": "the-housemaid-2025",
+      "director": "Paul Feig",
+      "writers": ["Rebecca Sonnenshine"],
+      "cast": [
+        {
+          "name": "Sydney Sweeney",
+          "character": "Millie Calloway"
+        },
+        {
+          "name": "Amanda Seyfried",
+          "character": "Nina Winchester"
+        },
+        {
+          "name": "Brandon Sklenar",
+          "character": "Andrew Winchester"
+        },
+        {
+          "name": "Michele Morrone",
+          "character": "Enzo Accardi"
+        },
+        {
+          "name": "Elizabeth Perkins",
+          "character": "Evelyn Winchester"
+        }
+      ],
+      "rating": 7.0,
+      "duration": 131,
+      "releaseDate": "2025-12-19",
+      "genres": ["Drama", "Thriller", "Mystery"],
+      "trailer": "https://www.youtube.com/watch?v=example",
+      "classification": "R",
+      "status": "TOP_10_MOVIES_THIS_WEEK"
+    },
+    {
+      "id": 17,
+      "title": "Ikkis",
+      "description": "An untold true story of India's youngest Param Vir Chakra awardee, Second Lieutenant Arun Khetarpal, who laid down his life during the Battle of Basantar in the 1971 India-Pakistan War at just 21 years old.",
+      "image": "ikkis.jpg",
+      "slug": "ikkis-2026",
+      "director": "Sriram Raghavan",
+      "writers": ["Sriram Raghavan"],
+      "cast": [
+        {
+          "name": "Agastya Nanda",
+          "character": "Second Lieutenant Arun Khetarpal"
+        },
+        {
+          "name": "Dharmendra",
+          "character": "M.L. Khetarpal"
+        },
+        {
+          "name": "Jaideep Ahlawat",
+          "character": "Brigadier Naseer"
+        },
+        {
+          "name": "Simar Bhatia",
+          "character": "Supporting Role"
+        }
+      ],
+      "rating": 7.1,
+      "duration": 150,
+      "releaseDate": "2026-01-01",
+      "genres": ["Action", "Biography", "Drama", "War", "History"],
+      "trailer": "https://www.youtube.com/watch?v=example",
+      "classification": "PG-13",
+      "status": "TOP_10_MOVIES_THIS_WEEK"
+    },
+    {
+      "id": 18,
+      "title": "One Battle After Another",
+      "description": "When their evil nemesis resurfaces after 16 years, a band of ex-revolutionaries reunite to rescue the daughter of one of their own in this intense action thriller.",
+      "image": "one-batle-after-another.jpeg",
+      "slug": "one-battle-after-another",
+      "director": "Paul Thomas Anderson",
+      "writers": ["Paul Thomas Anderson"],
+      "cast": [
+        {
+          "name": "Leonardo DiCaprio",
+          "character": "Bob Ferguson"
+        },
+        {
+          "name": "Sean Penn",
+          "character": "Supporting Role"
+        },
+        {
+          "name": "Benicio Del Toro",
+          "character": "Supporting Role"
+        },
+        {
+          "name": "Regina Hall",
+          "character": "Supporting Role"
+        },
+        {
+          "name": "Teyana Taylor",
+          "character": "Supporting Role"
+        },
+        {
+          "name": "Alana Haim",
+          "character": "Supporting Role"
+        }
+      ],
+      "rating": 7.8,
+      "duration": 170,
+      "releaseDate": "2025-09-26",
+      "genres": ["Action", "Crime", "Drama", "Thriller"],
+      "trailer": "https://www.youtube.com/watch?v=example",
+      "classification": "R",
+      "status": "TOP_10_MOVIES_THIS_WEEK"
+    },
+    {
+      "id": 19,
+      "title": "Petals and Memories",
+      "description": "Having lost their parents at a young age, siblings Toshiki and Fumiko have lived together ever since. As Fumiko prepares to marry, Toshiki's protective burden should lift, but a long-buried secret resurfaces.",
+      "image": "petals-and-memories.jpg",
+      "slug": "petals-and-memories",
+      "director": "Tetsu Maeda",
+      "writers": ["Keita Kita"],
+      "cast": [
+        {
+          "name": "Ryohei Suzuki",
+          "character": "Toshiki Kato"
+        },
+        {
+          "name": "Kasumi Arimura",
+          "character": "Fumiko Kato"
+        },
+        {
+          "name": "Oji Suzuka",
+          "character": "Taro Nakazawa"
+        },
+        {
+          "name": "First Summer Uika",
+          "character": "Miyoshi Komako"
+        }
+      ],
+      "rating": 7.3,
+      "duration": 118,
+      "releaseDate": "2025-04-25",
+      "genres": ["Drama", "Family", "Fantasy"],
+      "trailer": "https://www.youtube.com/watch?v=example",
+      "classification": "G",
+      "status": "TOP_10_MOVIES_THIS_WEEK"
+    },
+    {
+      "id": 20,
+      "title": "Tere Ishk Mein",
+      "description": "Shankar and Mukti's intense love story unfolds against the backdrop of Benaras, exploring surrender and transformation through an all-consuming romance that tests the boundaries of love and obsession.",
+      "image": "tere-ishk-mein.jpg",
+      "slug": "tere-ishk-mein",
+      "director": "Aanand L. Rai",
+      "writers": ["Himanshu Sharma", "Neeraj Yadav"],
+      "cast": [
+        {
+          "name": "Dhanush",
+          "character": "Shankar Gurukkal"
+        },
+        {
+          "name": "Kriti Sanon",
+          "character": "Mukti Behniwal"
+        },
+        {
+          "name": "Prakash Raj",
+          "character": "Supporting Role"
+        },
+        {
+          "name": "Vineet Kumar Singh",
+          "character": "Supporting Role"
+        }
+      ],
+      "rating": 7.5,
+      "duration": 169,
+      "releaseDate": "2025-11-28",
+      "genres": ["Action", "Drama", "Musical", "Romance"],
+      "trailer": "https://www.youtube.com/watch?v=example",
+      "classification": "UA",
+      "status": "TOP_10_MOVIES_THIS_WEEK"
+    },
+    {
+      "id": 21,
+      "title": "The Remarkable Life of Ibelin",
+      "description": "When Norwegian gamer Mats Steen died of a degenerative muscular disease at age 25, his parents mourned what they thought was an isolated life. After discovering his blog, they learned he had led a vibrant digital life as 'Ibelin' in World of Warcraft, forming deep friendships that transcended physical boundaries and profoundly impacted a global gaming community.",
+      "image": "mamlaket-al-qasab.jpg",
+      "slug": "the-remarkable-life-of-ibelin",
+      "director": "Benjamin Ree",
+      "writers": ["Benjamin Ree"],
+      "cast": [
+        {
+          "name": "Mats Steen",
+          "character": "Himself / Ibelin (archive footage)"
+        },
+        {
+          "name": "Robert Steen",
+          "character": "Himself (Mats' Father)"
+        },
+        {
+          "name": "Trude Steen",
+          "character": "Herself (Mats' Mother)"
+        },
+        {
+          "name": "Lisette Rogne",
+          "character": "Herself (Guild Member)"
+        }
+      ],
+      "rating": 8.1,
+      "duration": 103,
+      "releaseDate": "2024-10-25",
+      "genres": ["Documentary", "Animation", "Biography"],
+      "trailer": "https://www.youtube.com/watch?v=example",
+      "classification": "PG-13",
+      "status": "COMING_SOON"
+    },
+    {
+      "id": 22,
+      "title": "Teenage Mutant Ninja Turtles: Mutant Mayhem 2",
+      "description": "The Teenage Mutant Ninja Turtles return for another action-packed adventure as they continue protecting New York City from new threats while dealing with the challenges of being teenage heroes.",
+      "image": "ternet-ninja-3.jpg",
+      "slug": "teenage-mutant-ninja-turtles-mutant-mayhem-2",
+      "director": "Jeff Rowe",
+      "writers": [
+        "Seth Rogen",
+        "Evan Goldberg",
+        "Jeff Rowe",
+        "Dan Hernandez",
+        "Benji Samit"
+      ],
+      "cast": [
+        {
+          "name": "Micah Abbey",
+          "character": "Donatello (voice)"
+        },
+        {
+          "name": "Shamon Brown Jr.",
+          "character": "Michelangelo (voice)"
+        },
+        {
+          "name": "Nicolas Cantu",
+          "character": "Leonardo (voice)"
+        },
+        {
+          "name": "Brady Noon",
+          "character": "Raphael (voice)"
+        },
+        {
+          "name": "Jackie Chan",
+          "character": "Splinter (voice)"
+        },
+        {
+          "name": "Ayo Edebiri",
+          "character": "April O'Neil (voice)"
+        }
+      ],
+      "rating": 7.5,
+      "duration": 95,
+      "releaseDate": "2026-10-09",
+      "genres": ["Animation", "Action", "Adventure", "Comedy", "Family"],
+      "trailer": "https://www.youtube.com/watch?v=example",
+      "classification": "PG",
+      "status": "COMING_SOON"
+    },
+    {
+      "id": 23,
+      "title": "Tin Soldier",
+      "description": "A former special forces operative haunted by his past is recruited by the government for a dangerous mission to infiltrate a military cult led by the enigmatic Bokushi. He must confront his demons while using his insider knowledge to prevent a catastrophic threat.",
+      "image": "tin-soldier.jpg",
+      "slug": "tin-soldier",
+      "director": "Brad Furman",
+      "writers": ["Brad Furman", "Jess Fuerst", "Pablo Fenjves"],
+      "cast": [
+        {
+          "name": "Scott Eastwood",
+          "character": "Nash Cavanaugh"
+        },
+        {
+          "name": "Jamie Foxx",
+          "character": "The Bokushi"
+        },
+        {
+          "name": "Robert De Niro",
+          "character": "Supporting Role"
+        },
+        {
+          "name": "John Leguizamo",
+          "character": "Supporting Role"
+        },
+        {
+          "name": "Nora Arnezeder",
+          "character": "Supporting Role"
+        },
+        {
+          "name": "Rita Ora",
+          "character": "Supporting Role"
+        }
+      ],
+      "rating": 3.3,
+      "duration": 86,
+      "releaseDate": "2025-05-08",
+      "genres": ["Action", "Thriller", "Drama"],
+      "trailer": "https://www.youtube.com/watch?v=example",
+      "classification": "R",
+      "status": "COMING_SOON"
+    },
+    {
+      "id": 24,
+      "title": "Unspoken",
+      "description": "A Chinese father travels to America to collect his deaf daughter's body after her mysterious death. Consumed by grief and distrust, he stays to uncover the truth about what really happened, navigating cultural barriers and confronting the devastating power of stereotypes and prejudice.",
+      "image": "unspoken.jpg",
+      "slug": "unspoken-2024",
+      "director": "Daming Chen",
+      "writers": ["Daming Chen", "Peter Walters"],
+      "cast": [
+        {
+          "name": "Zhang Hanyu",
+          "character": "Xu (Father)"
+        },
+        {
+          "name": "Vivienne Tien",
+          "character": "Daughter"
+        },
+        {
+          "name": "Michael Cudlitz",
+          "character": "Detective"
+        },
+        {
+          "name": "Jake Abel",
+          "character": "Supporting Role"
+        },
+        {
+          "name": "Adam Hurtig",
+          "character": "Supporting Role"
+        }
+      ],
+      "rating": 8.1,
+      "duration": 115,
+      "releaseDate": "2024-01-14",
+      "genres": ["Crime", "Drama", "Thriller", "Mystery"],
+      "trailer": "https://www.youtube.com/watch?v=example",
+      "classification": "R",
+      "status": "COMING_SOON"
+    },
+    {
+      "id": 25,
+      "title": "Rental Family",
+      "description": "An American actor struggling to find purpose in Tokyo lands an unusual gig working for a Japanese 'rental family' agency, where he plays stand-in roles for strangers. As he immerses himself in his clients' worlds, he forms genuine bonds that blur the lines between performance and reality, rediscovering purpose, belonging, and the quiet beauty of human connection.",
+      "image": "rental-family.jpg",
+      "slug": "rental-family",
+      "director": "Hikari",
+      "writers": ["Hikari", "Stephen Blahut"],
+      "cast": [
+        {
+          "name": "Brendan Fraser",
+          "character": "Phillip Vanderploeg"
+        },
+        {
+          "name": "Takehiro Hira",
+          "character": "Shinji Tada"
+        },
+        {
+          "name": "Mari Yamamoto",
+          "character": "Aiko Nakajima"
+        },
+        {
+          "name": "Akira Emoto",
+          "character": "Kikuo Hasegawa"
+        },
+        {
+          "name": "Shannon Mahina Gorman",
+          "character": "Mia Kawasaki"
+        }
+      ],
+      "rating": 7.9,
+      "duration": 110,
+      "releaseDate": "2025-11-21",
+      "genres": ["Comedy", "Drama"],
+      "trailer": "https://www.youtube.com/watch?v=example",
+      "classification": "PG-13",
+      "status": "COMING_SOON"
+    },
+    {
+      "id": 26,
+      "title": "Send Help",
+      "description": "Two colleagues with a contentious relationship become stranded on a deserted island after a plane crash. As they fight to survive, their office power dynamics violently shift when the employee turns the tables on her sexist boss, transforming survival into a battle of wits, revenge, and determination.",
+      "image": "send-help.jpg",
+      "slug": "send-help",
+      "director": "Sam Raimi",
+      "writers": ["Damian Shannon", "Mark Swift"],
+      "cast": [
+        {
+          "name": "Rachel McAdams",
+          "character": "Linda Liddle"
+        },
+        {
+          "name": "Dylan O'Brien",
+          "character": "Bradley Preston"
+        },
+        {
+          "name": "Bruce Campbell",
+          "character": "Supporting Role"
+        },
+        {
+          "name": "Dennis Haysbert",
+          "character": "Supporting Role"
+        },
+        {
+          "name": "Chris Pang",
+          "character": "Supporting Role"
+        },
+        {
+          "name": "Xavier Samuel",
+          "character": "Supporting Role"
+        }
+      ],
+      "rating": 7.2,
+      "duration": 108,
+      "releaseDate": "2026-01-30",
+      "genres": ["Horror", "Thriller", "Comedy"],
+      "trailer": "https://www.youtube.com/watch?v=example",
+      "classification": "R",
+      "status": "COMING_SOON"
+    },
+    {
+      "id": 27,
+      "title": "Return to Silent Hill",
+      "description": "When James receives a mysterious letter from his lost love Mary, he is drawn back to Silent Hill—a once-familiar town now consumed by darkness. As he desperately searches for her through fog-shrouded streets, James encounters terrifying creatures and unravels a horrifying truth about his past that pushes him to the edge of sanity.",
+      "image": "return-to-silen-hill.jpg",
+      "slug": "return-to-silent-hill",
+      "director": "Christophe Gans",
+      "writers": [
+        "Christophe Gans",
+        "Sandra Vo-Anh",
+        "William Josef Schneider"
+      ],
+      "cast": [
+        {
+          "name": "Jeremy Irvine",
+          "character": "James Sunderland"
+        },
+        {
+          "name": "Hannah Emily Anderson",
+          "character": "Mary"
+        },
+        {
+          "name": "Robert Strange",
+          "character": "Supporting Role"
+        },
+        {
+          "name": "Evie Templeton",
+          "character": "Supporting Role"
+        },
+        {
+          "name": "Pearse Egan",
+          "character": "Supporting Role"
+        }
+      ],
+      "rating": 7.0,
+      "duration": 106,
+      "releaseDate": "2026-01-23",
+      "genres": ["Horror", "Mystery", "Thriller", "Drama"],
+      "trailer": "https://www.youtube.com/watch?v=example",
+      "classification": "R",
+      "status": "COMING_SOON"
+    },
+    {
+      "id": 28,
+      "title": "Cold Storage",
+      "description": "When a highly dangerous mutating fungus escapes from a secret government facility sealed decades ago, two young self-storage employees face the wildest night shift of their lives. Joined by a grizzled former bioterrorism operative, they must survive and contain the parasitic organism before it triggers human extinction.",
+      "image": "cold-storage.jpg",
+      "slug": "cold-storage",
+      "director": "Jonny Campbell",
+      "writers": ["David Koepp"],
+      "cast": [
+        {
+          "name": "Joe Keery",
+          "character": "Teacake"
+        },
+        {
+          "name": "Georgina Campbell",
+          "character": "Naomi"
+        },
+        {
+          "name": "Liam Neeson",
+          "character": "Former Bioterrorism Agent"
+        },
+        {
+          "name": "Sosie Bacon",
+          "character": "Supporting Role"
+        },
+        {
+          "name": "Lesley Manville",
+          "character": "Supporting Role"
+        },
+        {
+          "name": "Vanessa Redgrave",
+          "character": "Supporting Role"
+        }
+      ],
+      "rating": 7.1,
+      "duration": 99,
+      "releaseDate": "2026-02-13",
+      "genres": ["Comedy", "Horror", "Sci-Fi", "Thriller"],
+      "trailer": "https://www.youtube.com/watch?v=example",
+      "classification": "R",
+      "status": "COMING_SOON"
+    }
+  ],
+  "showtimes": [
+    {
+      "id": 1,
+      "movieId": 1,
+      "cinema": {
+        "id": 1,
+        "name": "Ticketor Nova Vida",
+        "location": "Luanda / Estrada Projecto Nova Vida Av. Pedro de Castro Van-Dúnem Loy",
+        "coordinates": {
+          "latitude": -8.89658,
+          "longitude": 13.22561
+        }
+      },
+      "format": "3D",
+      "date": "14/01/2026",
+      "time": ["10:00", "12:00", "14:00", "16:00", "18:00", "20:00", "22:00"],
+      "tags": ["Reserved seating", "Closed caption", "Accessibility devices available"]
+    },
+    {
+      "id": 2,
+      "movieId": 13,
+      "cinema": {
+        "id": 2,
+        "name": "Ticketor Fortaleza",
+        "location": "Luanda / Marginal de Luanda",
+        "coordinates": {
+          "latitude": -8.83512,
+          "longitude": 13.24357
+        }
+      },
+      "format": "IMAX",
+      "date": "15/01/2026",
+      "time": ["11:00", "14:30", "17:30", "20:30"],
+      "tags": ["Reserved seating", "IMAX Experience", "Dolby Atmos"]
+    },
+    {
+      "id": 3,
+      "movieId": 10,
+      "cinema": {
+        "id": 7,
+        "name": "Ticketor Talatona",
+        "location": "Luanda / Talatona",
+        "coordinates": {
+          "latitude": -8.92517,
+          "longitude": 13.18522
+        }
+      },
+      "format": "2D",
+      "date": "16/01/2026",
+      "time": ["10:30", "13:30", "16:30", "19:30", "22:00"],
+      "tags": ["Reserved seating", "Closed caption"]
+    },
+    {
+      "id": 4,
+      "movieId": 6,
+      "cinema": {
+        "id": 4,
+        "name": "Ticketor Kilamba",
+        "location": "Luanda / Cidade do Kilamba",
+        "coordinates": {
+          "latitude": -8.99034,
+          "longitude": 13.28881
+        }
+      },
+      "format": "4DX",
+      "date": "17/01/2026",
+      "time": ["12:00", "15:00", "18:00", "21:00"],
+      "tags": ["4DX Experience", "Motion seats", "Special effects"]
+    },
+    {
+      "id": 5,
+      "movieId": 9,
+      "cinema": {
+        "id": 3,
+        "name": "Ticketor Benguela",
+        "location": "Benguela / Estrada do Calohombo, Bairro do Calohombo, Direcção Baia Farta",
+        "coordinates": {
+          "latitude": -12.5773,
+          "longitude": 13.4052
+        }
+      },
+      "format": "2D",
+      "date": "18/01/2026",
+      "time": ["10:00", "12:30", "15:00", "17:30", "20:00"],
+      "tags": ["Family friendly", "Closed caption", "Accessibility devices available"]
+    },
+    {
+      "id": 6,
+      "movieId": 18,
+      "cinema": {
+        "id": 1,
+        "name": "Ticketor Nova Vida",
+        "location": "Luanda / Estrada Projecto Nova Vida Av. Pedro de Castro Van-Dúnem Loy",
+        "coordinates": {
+          "latitude": -8.89658,
+          "longitude": 13.22561
+        }
+      },
+      "format": "3D",
+      "date": "19/01/2026",
+      "time": ["11:00", "14:00", "17:00", "20:00", "22:30"],
+      "tags": ["Reserved seating", "Dolby Atmos", "Premium experience"]
+    },
+    {
+      "id": 7,
+      "movieId": 11,
+      "cinema": {
+        "id": 5,
+        "name": "Ticketor Huambo",
+        "location": "Huambo / Bairro São João, Estrada em direcção ao Kuito Nº 120 – M",
+        "coordinates": {
+          "latitude": -12.76014,
+          "longitude": 15.76285
+        }
+      },
+      "format": "2D",
+      "date": "20/01/2026",
+      "time": ["10:30", "13:00", "15:30", "18:00", "20:30"],
+      "tags": ["Family friendly", "Reserved seating", "Closed caption"]
+    },
+    {
+      "id": 8,
+      "movieId": 16,
+      "cinema": {
+        "id": 2,
+        "name": "Ticketor Fortaleza",
+        "location": "Luanda / Marginal de Luanda",
+        "coordinates": {
+          "latitude": -8.83512,
+          "longitude": 13.24357
+        }
+      },
+      "format": "2D",
+      "date": "21/01/2026",
+      "time": ["13:00", "16:00", "19:00", "21:30"],
+      "tags": ["Reserved seating", "Closed caption", "Premium sound"]
+    },
+    {
+      "id": 9,
+      "movieId": 7,
+      "cinema": {
+        "id": 6,
+        "name": "Ticketor Lubango",
+        "location": "Huíla / Cidade do Lubango",
+        "coordinates": {
+          "latitude": -14.93062,
+          "longitude": 13.4816
+        }
+      },
+      "format": "3D",
+      "date": "22/01/2026",
+      "time": ["11:30", "14:30", "17:30", "20:30"],
+      "tags": ["Reserved seating", "3D Experience", "Accessibility devices available"]
+    },
+    {
+      "id": 10,
+      "movieId": 15,
+      "cinema": {
+        "id": 4,
+        "name": "Ticketor Kilamba",
+        "location": "Luanda / Cidade do Kilamba",
+        "coordinates": {
+          "latitude": -8.99034,
+          "longitude": 13.28881
+        }
+      },
+      "format": "2D",
+      "date": "23/01/2026",
+      "time": ["10:00", "12:00", "14:30", "17:00", "19:30"],
+      "tags": ["Family friendly", "Reserved seating", "Closed caption"]
+    },
+    {
+      "id": 11,
+      "movieId": 22,
+      "cinema": {
+        "id": 7,
+        "name": "Ticketor Talatona",
+        "location": "Luanda / Talatona",
+        "coordinates": {
+          "latitude": -8.92517,
+          "longitude": 13.18522
+        }
+      },
+      "format": "IMAX",
+      "date": "24/01/2026",
+      "time": ["12:00", "15:00", "18:00", "21:00"],
+      "tags": ["IMAX Experience", "Family friendly", "Reserved seating", "Dolby Atmos"]
+    }
+  ]
+}
