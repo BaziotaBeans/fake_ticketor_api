@@ -7,7 +7,8 @@
       "coordinates": {
         "latitude": -8.89658,
         "longitude": 13.22561
-      }
+      },
+      "slug": "ticketor-nova-vida"
     },
     {
       "id": 2,
@@ -16,7 +17,8 @@
       "coordinates": {
         "latitude": -8.83512,
         "longitude": 13.24357
-      }
+      },
+      "slug": "ticketor-fortaleza"
     },
     {
       "id": 3,
@@ -25,7 +27,8 @@
       "coordinates": {
         "latitude": -12.5773,
         "longitude": 13.4052
-      }
+      },
+      "slug": "ticketor-benguela"
     },
     {
       "id": 4,
@@ -34,7 +37,8 @@
       "coordinates": {
         "latitude": -8.99034,
         "longitude": 13.28881
-      }
+      },
+      "slug": "ticketor-kilamba"
     },
     {
       "id": 5,
@@ -43,7 +47,8 @@
       "coordinates": {
         "latitude": -12.76014,
         "longitude": 15.76285
-      }
+      },
+      "slug": "ticketor-huambo"
     },
     {
       "id": 6,
@@ -52,7 +57,8 @@
       "coordinates": {
         "latitude": -14.93062,
         "longitude": 13.4816
-      }
+      },
+      "slug": "ticketor-lubango"
     },
     {
       "id": 7,
@@ -61,7 +67,8 @@
       "coordinates": {
         "latitude": -8.92517,
         "longitude": 13.18522
-      }
+      },
+      "slug": "ticketor-talatona"
     }
   ],
   "movies": [
@@ -70,9 +77,12 @@
       "title": "Akira",
       "description": "A secret military project endangers Neo-Tokyo when it turns a biker gang member into a rampaging psychic psychopath who can only be stopped by a teenager, his biker friend, and a group of psychics.",
       "image": "akira-1988.jpg",
-      "slug": "akira-1988",
+      "slug": "akira",
       "director": "Katsuhiro Ôtomo",
-      "writers": ["Katsuhiro Ôtomo", "Izô Hashimoto"],
+      "writers": [
+        "Katsuhiro Ôtomo",
+        "Izô Hashimoto"
+      ],
       "cast": [
         {
           "name": "Mitsuo Iwata",
@@ -90,7 +100,13 @@
       "rating": 8.0,
       "duration": 124,
       "releaseDate": "1988-07-16",
-      "genres": ["Animation", "Action", "Drama", "Sci-Fi", "Thriller"],
+      "genres": [
+        "Animation",
+        "Action",
+        "Drama",
+        "Sci-Fi",
+        "Thriller"
+      ],
       "trailer": "https://www.youtube.com/watch?v=nA8KmHC2Z-g",
       "classification": "R",
       "status": "CURRENTLY_IN_CINEMAS"
@@ -102,7 +118,9 @@
       "image": "bugonia.jpg",
       "slug": "bugonia",
       "director": "Yorgos Lanthimos",
-      "writers": ["Will Tracy"],
+      "writers": [
+        "Will Tracy"
+      ],
       "cast": [
         {
           "name": "Emma Stone",
@@ -120,7 +138,11 @@
       "rating": 7.2,
       "duration": 110,
       "releaseDate": "2025-11-07",
-      "genres": ["Comedy", "Sci-Fi", "Thriller"],
+      "genres": [
+        "Comedy",
+        "Sci-Fi",
+        "Thriller"
+      ],
       "trailer": "https://www.youtube.com/watch?v=example",
       "classification": "R",
       "status": "CURRENTLY_IN_CINEMAS"
@@ -132,7 +154,9 @@
       "image": "david.jpg",
       "slug": "david",
       "director": "Michael B. Jordan",
-      "writers": ["Ryan Coogler"],
+      "writers": [
+        "Ryan Coogler"
+      ],
       "cast": [
         {
           "name": "To be announced",
@@ -142,7 +166,11 @@
       "rating": 7.5,
       "duration": 120,
       "releaseDate": "2025-12-25",
-      "genres": ["Drama", "History", "Adventure"],
+      "genres": [
+        "Drama",
+        "History",
+        "Adventure"
+      ],
       "trailer": "https://www.youtube.com/watch?v=example",
       "classification": "PG-13",
       "status": "CURRENTLY_IN_CINEMAS"
@@ -154,7 +182,9 @@
       "image": "der-tiger.jpg",
       "slug": "der-tiger",
       "director": "Various",
-      "writers": ["Various"],
+      "writers": [
+        "Various"
+      ],
       "cast": [
         {
           "name": "To be announced",
@@ -164,7 +194,11 @@
       "rating": 7.0,
       "duration": 105,
       "releaseDate": "2025-03-15",
-      "genres": ["Thriller", "Drama", "Adventure"],
+      "genres": [
+        "Thriller",
+        "Drama",
+        "Adventure"
+      ],
       "trailer": "https://www.youtube.com/watch?v=example",
       "classification": "PG-13",
       "status": "CURRENTLY_IN_CINEMAS"
@@ -176,7 +210,10 @@
       "image": "eleanor-the-Great.jpg",
       "slug": "eleanor-the-great",
       "director": "Scarlett Johansson",
-      "writers": ["Paco Cabezas", "Nick Payne"],
+      "writers": [
+        "Paco Cabezas",
+        "Nick Payne"
+      ],
       "cast": [
         {
           "name": "June Squibb",
@@ -194,7 +231,11 @@
       "rating": 7.3,
       "duration": 95,
       "releaseDate": "2025-05-09",
-      "genres": ["Comedy", "Drama", "Adventure"],
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Adventure"
+      ],
       "trailer": "https://www.youtube.com/watch?v=example",
       "classification": "PG-13",
       "status": "CURRENTLY_IN_CINEMAS"
@@ -206,7 +247,10 @@
       "image": "now-you-see-me-3.jpg",
       "slug": "now-you-see-me-3",
       "director": "Ruben Fleischer",
-      "writers": ["Eric Warren Singer", "Seth Grahame-Smith"],
+      "writers": [
+        "Eric Warren Singer",
+        "Seth Grahame-Smith"
+      ],
       "cast": [
         {
           "name": "Jesse Eisenberg",
@@ -228,7 +272,11 @@
       "rating": 7.4,
       "duration": 125,
       "releaseDate": "2025-11-14",
-      "genres": ["Action", "Mystery", "Thriller"],
+      "genres": [
+        "Action",
+        "Mystery",
+        "Thriller"
+      ],
       "trailer": "https://www.youtube.com/watch?v=example",
       "classification": "PG-13",
       "status": "CURRENTLY_IN_CINEMAS"
@@ -240,7 +288,9 @@
       "image": "nuremberga.jpg",
       "slug": "the-nuremberg-trials",
       "director": "James Kent",
-      "writers": ["Various"],
+      "writers": [
+        "Various"
+      ],
       "cast": [
         {
           "name": "Russell Crowe",
@@ -258,7 +308,11 @@
       "rating": 7.8,
       "duration": 145,
       "releaseDate": "2025-09-26",
-      "genres": ["Drama", "History", "War"],
+      "genres": [
+        "Drama",
+        "History",
+        "War"
+      ],
       "trailer": "https://www.youtube.com/watch?v=example",
       "classification": "R",
       "status": "CURRENTLY_IN_CINEMAS"
@@ -270,7 +324,9 @@
       "image": "other.jpg",
       "slug": "the-other",
       "director": "Various",
-      "writers": ["Various"],
+      "writers": [
+        "Various"
+      ],
       "cast": [
         {
           "name": "To be announced",
@@ -280,7 +336,11 @@
       "rating": 7.1,
       "duration": 108,
       "releaseDate": "2025-10-17",
-      "genres": ["Thriller", "Mystery", "Horror"],
+      "genres": [
+        "Thriller",
+        "Mystery",
+        "Horror"
+      ],
       "trailer": "https://www.youtube.com/watch?v=example",
       "classification": "R",
       "status": "CURRENTLY_IN_CINEMAS"
@@ -292,7 +352,11 @@
       "image": "the-spongebob.jpg",
       "slug": "the-spongebob-movie-search-for-squarepants",
       "director": "Derek Drymon",
-      "writers": ["Stephen Hillenburg", "Derek Drymon", "Tim Hill"],
+      "writers": [
+        "Stephen Hillenburg",
+        "Derek Drymon",
+        "Tim Hill"
+      ],
       "cast": [
         {
           "name": "Tom Kenny",
@@ -314,7 +378,12 @@
       "rating": 7.2,
       "duration": 92,
       "releaseDate": "2025-12-19",
-      "genres": ["Animation", "Comedy", "Family", "Adventure"],
+      "genres": [
+        "Animation",
+        "Comedy",
+        "Family",
+        "Adventure"
+      ],
       "trailer": "https://www.youtube.com/watch?v=example",
       "classification": "PG",
       "status": "CURRENTLY_IN_CINEMAS"
@@ -324,9 +393,11 @@
       "title": "Wake Up Dead Man: A Knives Out Mystery",
       "description": "Detective Benoit Blanc returns to solve another intricate mystery filled with twists, turns, and unexpected revelations.",
       "image": "wke-up-dead-man.jpg",
-      "slug": "wake-up-dead-man-knives-out",
+      "slug": "wake-up-dead-man-a-knives-out-mystery",
       "director": "Rian Johnson",
-      "writers": ["Rian Johnson"],
+      "writers": [
+        "Rian Johnson"
+      ],
       "cast": [
         {
           "name": "Daniel Craig",
@@ -348,7 +419,12 @@
       "rating": 8.1,
       "duration": 140,
       "releaseDate": "2025-08-01",
-      "genres": ["Mystery", "Comedy", "Crime", "Thriller"],
+      "genres": [
+        "Mystery",
+        "Comedy",
+        "Crime",
+        "Thriller"
+      ],
       "trailer": "https://www.youtube.com/watch?v=example",
       "classification": "PG-13",
       "status": "CURRENTLY_IN_CINEMAS"
@@ -360,7 +436,10 @@
       "image": "zootopia-2.webp",
       "slug": "zootopia-2",
       "director": "Byron Howard",
-      "writers": ["Jared Bush", "Phil Johnston"],
+      "writers": [
+        "Jared Bush",
+        "Phil Johnston"
+      ],
       "cast": [
         {
           "name": "Ginnifer Goodwin",
@@ -382,7 +461,12 @@
       "rating": 7.9,
       "duration": 108,
       "releaseDate": "2025-11-26",
-      "genres": ["Animation", "Adventure", "Comedy", "Family"],
+      "genres": [
+        "Animation",
+        "Adventure",
+        "Comedy",
+        "Family"
+      ],
       "trailer": "https://www.youtube.com/watch?v=example",
       "classification": "PG",
       "status": "CURRENTLY_IN_CINEMAS"
@@ -392,9 +476,13 @@
       "title": "Anaconda",
       "description": "A documentary film crew traveling through the Amazon jungle picks up a stranded snake hunter who forces them along on his quest to capture the world's largest and deadliest anaconda.",
       "image": "anaconda.jpg",
-      "slug": "anaconda-1997",
+      "slug": "anaconda",
       "director": "Luis Llosa",
-      "writers": ["Hans Bauer", "Jim Cash", "Jack Epps Jr."],
+      "writers": [
+        "Hans Bauer",
+        "Jim Cash",
+        "Jack Epps Jr."
+      ],
       "cast": [
         {
           "name": "Jennifer Lopez",
@@ -424,7 +512,12 @@
       "rating": 4.9,
       "duration": 89,
       "releaseDate": "1997-04-11",
-      "genres": ["Action", "Adventure", "Horror", "Thriller"],
+      "genres": [
+        "Action",
+        "Adventure",
+        "Horror",
+        "Thriller"
+      ],
       "trailer": "https://www.youtube.com/watch?v=example",
       "classification": "PG-13",
       "status": "TOP_10_MOVIES_THIS_WEEK"
@@ -480,7 +573,12 @@
       "rating": 7.4,
       "duration": 198,
       "releaseDate": "2025-12-19",
-      "genres": ["Action", "Adventure", "Fantasy", "Sci-Fi"],
+      "genres": [
+        "Action",
+        "Adventure",
+        "Fantasy",
+        "Sci-Fi"
+      ],
       "trailer": "https://www.youtube.com/watch?v=example",
       "classification": "PG-13",
       "status": "TOP_10_MOVIES_THIS_WEEK"
@@ -492,7 +590,10 @@
       "image": "greenland-2.jpg",
       "slug": "greenland-2-migration",
       "director": "Ric Roman Waugh",
-      "writers": ["Chris Sparling", "Mitchell LaFortune"],
+      "writers": [
+        "Chris Sparling",
+        "Mitchell LaFortune"
+      ],
       "cast": [
         {
           "name": "Gerard Butler",
@@ -518,7 +619,12 @@
       "rating": 6.1,
       "duration": 119,
       "releaseDate": "2026-01-09",
-      "genres": ["Action", "Adventure", "Thriller", "Disaster"],
+      "genres": [
+        "Action",
+        "Adventure",
+        "Thriller",
+        "Disaster"
+      ],
       "trailer": "https://www.youtube.com/watch?v=example",
       "classification": "PG-13",
       "status": "TOP_10_MOVIES_THIS_WEEK"
@@ -530,7 +636,11 @@
       "image": "paddington-in-peru.jpg",
       "slug": "paddington-in-peru",
       "director": "Dougal Wilson",
-      "writers": ["Mark Burton", "Jon Foster", "James Lamont"],
+      "writers": [
+        "Mark Burton",
+        "Jon Foster",
+        "James Lamont"
+      ],
       "cast": [
         {
           "name": "Ben Whishaw",
@@ -560,7 +670,12 @@
       "rating": 6.6,
       "duration": 106,
       "releaseDate": "2024-11-08",
-      "genres": ["Adventure", "Comedy", "Family", "Animation"],
+      "genres": [
+        "Adventure",
+        "Comedy",
+        "Family",
+        "Animation"
+      ],
       "trailer": "https://www.youtube.com/watch?v=example",
       "classification": "PG",
       "status": "TOP_10_MOVIES_THIS_WEEK"
@@ -570,9 +685,11 @@
       "title": "The Housemaid",
       "description": "A struggling young woman is relieved by the chance for a fresh start as a maid for a wealthy couple. But what begins as a dream job quickly unravels into something far more dangerous—a sexy, seductive game of secrets, scandal, and power.",
       "image": "the-housemaid.webp",
-      "slug": "the-housemaid-2025",
+      "slug": "the-housemaid",
       "director": "Paul Feig",
-      "writers": ["Rebecca Sonnenshine"],
+      "writers": [
+        "Rebecca Sonnenshine"
+      ],
       "cast": [
         {
           "name": "Sydney Sweeney",
@@ -598,7 +715,11 @@
       "rating": 7.0,
       "duration": 131,
       "releaseDate": "2025-12-19",
-      "genres": ["Drama", "Thriller", "Mystery"],
+      "genres": [
+        "Drama",
+        "Thriller",
+        "Mystery"
+      ],
       "trailer": "https://www.youtube.com/watch?v=example",
       "classification": "R",
       "status": "TOP_10_MOVIES_THIS_WEEK"
@@ -608,9 +729,11 @@
       "title": "Ikkis",
       "description": "An untold true story of India's youngest Param Vir Chakra awardee, Second Lieutenant Arun Khetarpal, who laid down his life during the Battle of Basantar in the 1971 India-Pakistan War at just 21 years old.",
       "image": "ikkis.jpg",
-      "slug": "ikkis-2026",
+      "slug": "ikkis",
       "director": "Sriram Raghavan",
-      "writers": ["Sriram Raghavan"],
+      "writers": [
+        "Sriram Raghavan"
+      ],
       "cast": [
         {
           "name": "Agastya Nanda",
@@ -632,7 +755,13 @@
       "rating": 7.1,
       "duration": 150,
       "releaseDate": "2026-01-01",
-      "genres": ["Action", "Biography", "Drama", "War", "History"],
+      "genres": [
+        "Action",
+        "Biography",
+        "Drama",
+        "War",
+        "History"
+      ],
       "trailer": "https://www.youtube.com/watch?v=example",
       "classification": "PG-13",
       "status": "TOP_10_MOVIES_THIS_WEEK"
@@ -644,7 +773,9 @@
       "image": "one-batle-after-another.jpeg",
       "slug": "one-battle-after-another",
       "director": "Paul Thomas Anderson",
-      "writers": ["Paul Thomas Anderson"],
+      "writers": [
+        "Paul Thomas Anderson"
+      ],
       "cast": [
         {
           "name": "Leonardo DiCaprio",
@@ -674,7 +805,12 @@
       "rating": 7.8,
       "duration": 170,
       "releaseDate": "2025-09-26",
-      "genres": ["Action", "Crime", "Drama", "Thriller"],
+      "genres": [
+        "Action",
+        "Crime",
+        "Drama",
+        "Thriller"
+      ],
       "trailer": "https://www.youtube.com/watch?v=example",
       "classification": "R",
       "status": "TOP_10_MOVIES_THIS_WEEK"
@@ -686,7 +822,9 @@
       "image": "petals-and-memories.jpg",
       "slug": "petals-and-memories",
       "director": "Tetsu Maeda",
-      "writers": ["Keita Kita"],
+      "writers": [
+        "Keita Kita"
+      ],
       "cast": [
         {
           "name": "Ryohei Suzuki",
@@ -708,7 +846,11 @@
       "rating": 7.3,
       "duration": 118,
       "releaseDate": "2025-04-25",
-      "genres": ["Drama", "Family", "Fantasy"],
+      "genres": [
+        "Drama",
+        "Family",
+        "Fantasy"
+      ],
       "trailer": "https://www.youtube.com/watch?v=example",
       "classification": "G",
       "status": "TOP_10_MOVIES_THIS_WEEK"
@@ -720,7 +862,10 @@
       "image": "tere-ishk-mein.jpg",
       "slug": "tere-ishk-mein",
       "director": "Aanand L. Rai",
-      "writers": ["Himanshu Sharma", "Neeraj Yadav"],
+      "writers": [
+        "Himanshu Sharma",
+        "Neeraj Yadav"
+      ],
       "cast": [
         {
           "name": "Dhanush",
@@ -742,7 +887,12 @@
       "rating": 7.5,
       "duration": 169,
       "releaseDate": "2025-11-28",
-      "genres": ["Action", "Drama", "Musical", "Romance"],
+      "genres": [
+        "Action",
+        "Drama",
+        "Musical",
+        "Romance"
+      ],
       "trailer": "https://www.youtube.com/watch?v=example",
       "classification": "UA",
       "status": "TOP_10_MOVIES_THIS_WEEK"
@@ -754,7 +904,9 @@
       "image": "mamlaket-al-qasab.jpg",
       "slug": "the-remarkable-life-of-ibelin",
       "director": "Benjamin Ree",
-      "writers": ["Benjamin Ree"],
+      "writers": [
+        "Benjamin Ree"
+      ],
       "cast": [
         {
           "name": "Mats Steen",
@@ -776,7 +928,11 @@
       "rating": 8.1,
       "duration": 103,
       "releaseDate": "2024-10-25",
-      "genres": ["Documentary", "Animation", "Biography"],
+      "genres": [
+        "Documentary",
+        "Animation",
+        "Biography"
+      ],
       "trailer": "https://www.youtube.com/watch?v=example",
       "classification": "PG-13",
       "status": "COMING_SOON"
@@ -824,7 +980,13 @@
       "rating": 7.5,
       "duration": 95,
       "releaseDate": "2026-10-09",
-      "genres": ["Animation", "Action", "Adventure", "Comedy", "Family"],
+      "genres": [
+        "Animation",
+        "Action",
+        "Adventure",
+        "Comedy",
+        "Family"
+      ],
       "trailer": "https://www.youtube.com/watch?v=example",
       "classification": "PG",
       "status": "COMING_SOON"
@@ -836,7 +998,11 @@
       "image": "tin-soldier.jpg",
       "slug": "tin-soldier",
       "director": "Brad Furman",
-      "writers": ["Brad Furman", "Jess Fuerst", "Pablo Fenjves"],
+      "writers": [
+        "Brad Furman",
+        "Jess Fuerst",
+        "Pablo Fenjves"
+      ],
       "cast": [
         {
           "name": "Scott Eastwood",
@@ -866,7 +1032,11 @@
       "rating": 3.3,
       "duration": 86,
       "releaseDate": "2025-05-08",
-      "genres": ["Action", "Thriller", "Drama"],
+      "genres": [
+        "Action",
+        "Thriller",
+        "Drama"
+      ],
       "trailer": "https://www.youtube.com/watch?v=example",
       "classification": "R",
       "status": "COMING_SOON"
@@ -876,9 +1046,12 @@
       "title": "Unspoken",
       "description": "A Chinese father travels to America to collect his deaf daughter's body after her mysterious death. Consumed by grief and distrust, he stays to uncover the truth about what really happened, navigating cultural barriers and confronting the devastating power of stereotypes and prejudice.",
       "image": "unspoken.jpg",
-      "slug": "unspoken-2024",
+      "slug": "unspoken",
       "director": "Daming Chen",
-      "writers": ["Daming Chen", "Peter Walters"],
+      "writers": [
+        "Daming Chen",
+        "Peter Walters"
+      ],
       "cast": [
         {
           "name": "Zhang Hanyu",
@@ -904,7 +1077,12 @@
       "rating": 8.1,
       "duration": 115,
       "releaseDate": "2024-01-14",
-      "genres": ["Crime", "Drama", "Thriller", "Mystery"],
+      "genres": [
+        "Crime",
+        "Drama",
+        "Thriller",
+        "Mystery"
+      ],
       "trailer": "https://www.youtube.com/watch?v=example",
       "classification": "R",
       "status": "COMING_SOON"
@@ -916,7 +1094,10 @@
       "image": "rental-family.jpg",
       "slug": "rental-family",
       "director": "Hikari",
-      "writers": ["Hikari", "Stephen Blahut"],
+      "writers": [
+        "Hikari",
+        "Stephen Blahut"
+      ],
       "cast": [
         {
           "name": "Brendan Fraser",
@@ -942,7 +1123,10 @@
       "rating": 7.9,
       "duration": 110,
       "releaseDate": "2025-11-21",
-      "genres": ["Comedy", "Drama"],
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
       "trailer": "https://www.youtube.com/watch?v=example",
       "classification": "PG-13",
       "status": "COMING_SOON"
@@ -954,7 +1138,10 @@
       "image": "send-help.jpg",
       "slug": "send-help",
       "director": "Sam Raimi",
-      "writers": ["Damian Shannon", "Mark Swift"],
+      "writers": [
+        "Damian Shannon",
+        "Mark Swift"
+      ],
       "cast": [
         {
           "name": "Rachel McAdams",
@@ -984,7 +1171,11 @@
       "rating": 7.2,
       "duration": 108,
       "releaseDate": "2026-01-30",
-      "genres": ["Horror", "Thriller", "Comedy"],
+      "genres": [
+        "Horror",
+        "Thriller",
+        "Comedy"
+      ],
       "trailer": "https://www.youtube.com/watch?v=example",
       "classification": "R",
       "status": "COMING_SOON"
@@ -1026,7 +1217,12 @@
       "rating": 7.0,
       "duration": 106,
       "releaseDate": "2026-01-23",
-      "genres": ["Horror", "Mystery", "Thriller", "Drama"],
+      "genres": [
+        "Horror",
+        "Mystery",
+        "Thriller",
+        "Drama"
+      ],
       "trailer": "https://www.youtube.com/watch?v=example",
       "classification": "R",
       "status": "COMING_SOON"
@@ -1038,7 +1234,9 @@
       "image": "cold-storage.jpg",
       "slug": "cold-storage",
       "director": "Jonny Campbell",
-      "writers": ["David Koepp"],
+      "writers": [
+        "David Koepp"
+      ],
       "cast": [
         {
           "name": "Joe Keery",
@@ -1068,7 +1266,12 @@
       "rating": 7.1,
       "duration": 99,
       "releaseDate": "2026-02-13",
-      "genres": ["Comedy", "Horror", "Sci-Fi", "Thriller"],
+      "genres": [
+        "Comedy",
+        "Horror",
+        "Sci-Fi",
+        "Thriller"
+      ],
       "trailer": "https://www.youtube.com/watch?v=example",
       "classification": "R",
       "status": "COMING_SOON"
@@ -1089,8 +1292,20 @@
       },
       "format": "3D",
       "date": "14/01/2026",
-      "time": ["10:00", "12:00", "14:00", "16:00", "18:00", "20:00", "22:00"],
-      "tags": ["Reserved seating", "Closed caption", "Accessibility devices available"]
+      "time": [
+        "10:00",
+        "12:00",
+        "14:00",
+        "16:00",
+        "18:00",
+        "20:00",
+        "22:00"
+      ],
+      "tags": [
+        "Reserved seating",
+        "Closed caption",
+        "Accessibility devices available"
+      ]
     },
     {
       "id": 2,
@@ -1106,8 +1321,17 @@
       },
       "format": "IMAX",
       "date": "15/01/2026",
-      "time": ["11:00", "14:30", "17:30", "20:30"],
-      "tags": ["Reserved seating", "IMAX Experience", "Dolby Atmos"]
+      "time": [
+        "11:00",
+        "14:30",
+        "17:30",
+        "20:30"
+      ],
+      "tags": [
+        "Reserved seating",
+        "IMAX Experience",
+        "Dolby Atmos"
+      ]
     },
     {
       "id": 3,
@@ -1123,8 +1347,17 @@
       },
       "format": "2D",
       "date": "16/01/2026",
-      "time": ["10:30", "13:30", "16:30", "19:30", "22:00"],
-      "tags": ["Reserved seating", "Closed caption"]
+      "time": [
+        "10:30",
+        "13:30",
+        "16:30",
+        "19:30",
+        "22:00"
+      ],
+      "tags": [
+        "Reserved seating",
+        "Closed caption"
+      ]
     },
     {
       "id": 4,
@@ -1140,8 +1373,17 @@
       },
       "format": "4DX",
       "date": "17/01/2026",
-      "time": ["12:00", "15:00", "18:00", "21:00"],
-      "tags": ["4DX Experience", "Motion seats", "Special effects"]
+      "time": [
+        "12:00",
+        "15:00",
+        "18:00",
+        "21:00"
+      ],
+      "tags": [
+        "4DX Experience",
+        "Motion seats",
+        "Special effects"
+      ]
     },
     {
       "id": 5,
@@ -1157,8 +1399,18 @@
       },
       "format": "2D",
       "date": "18/01/2026",
-      "time": ["10:00", "12:30", "15:00", "17:30", "20:00"],
-      "tags": ["Family friendly", "Closed caption", "Accessibility devices available"]
+      "time": [
+        "10:00",
+        "12:30",
+        "15:00",
+        "17:30",
+        "20:00"
+      ],
+      "tags": [
+        "Family friendly",
+        "Closed caption",
+        "Accessibility devices available"
+      ]
     },
     {
       "id": 6,
@@ -1174,8 +1426,18 @@
       },
       "format": "3D",
       "date": "19/01/2026",
-      "time": ["11:00", "14:00", "17:00", "20:00", "22:30"],
-      "tags": ["Reserved seating", "Dolby Atmos", "Premium experience"]
+      "time": [
+        "11:00",
+        "14:00",
+        "17:00",
+        "20:00",
+        "22:30"
+      ],
+      "tags": [
+        "Reserved seating",
+        "Dolby Atmos",
+        "Premium experience"
+      ]
     },
     {
       "id": 7,
@@ -1191,8 +1453,18 @@
       },
       "format": "2D",
       "date": "20/01/2026",
-      "time": ["10:30", "13:00", "15:30", "18:00", "20:30"],
-      "tags": ["Family friendly", "Reserved seating", "Closed caption"]
+      "time": [
+        "10:30",
+        "13:00",
+        "15:30",
+        "18:00",
+        "20:30"
+      ],
+      "tags": [
+        "Family friendly",
+        "Reserved seating",
+        "Closed caption"
+      ]
     },
     {
       "id": 8,
@@ -1208,8 +1480,17 @@
       },
       "format": "2D",
       "date": "21/01/2026",
-      "time": ["13:00", "16:00", "19:00", "21:30"],
-      "tags": ["Reserved seating", "Closed caption", "Premium sound"]
+      "time": [
+        "13:00",
+        "16:00",
+        "19:00",
+        "21:30"
+      ],
+      "tags": [
+        "Reserved seating",
+        "Closed caption",
+        "Premium sound"
+      ]
     },
     {
       "id": 9,
@@ -1225,8 +1506,17 @@
       },
       "format": "3D",
       "date": "22/01/2026",
-      "time": ["11:30", "14:30", "17:30", "20:30"],
-      "tags": ["Reserved seating", "3D Experience", "Accessibility devices available"]
+      "time": [
+        "11:30",
+        "14:30",
+        "17:30",
+        "20:30"
+      ],
+      "tags": [
+        "Reserved seating",
+        "3D Experience",
+        "Accessibility devices available"
+      ]
     },
     {
       "id": 10,
@@ -1242,8 +1532,18 @@
       },
       "format": "2D",
       "date": "23/01/2026",
-      "time": ["10:00", "12:00", "14:30", "17:00", "19:30"],
-      "tags": ["Family friendly", "Reserved seating", "Closed caption"]
+      "time": [
+        "10:00",
+        "12:00",
+        "14:30",
+        "17:00",
+        "19:30"
+      ],
+      "tags": [
+        "Family friendly",
+        "Reserved seating",
+        "Closed caption"
+      ]
     },
     {
       "id": 11,
@@ -1259,8 +1559,18 @@
       },
       "format": "IMAX",
       "date": "24/01/2026",
-      "time": ["12:00", "15:00", "18:00", "21:00"],
-      "tags": ["IMAX Experience", "Family friendly", "Reserved seating", "Dolby Atmos"]
+      "time": [
+        "12:00",
+        "15:00",
+        "18:00",
+        "21:00"
+      ],
+      "tags": [
+        "IMAX Experience",
+        "Family friendly",
+        "Reserved seating",
+        "Dolby Atmos"
+      ]
     }
   ]
 }
