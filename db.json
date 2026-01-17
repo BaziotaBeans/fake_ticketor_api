@@ -79,7 +79,10 @@
       "image": "akira-1988.jpg",
       "slug": "akira",
       "director": "Katsuhiro Ôtomo",
-      "writers": ["Katsuhiro Ôtomo", "Izô Hashimoto"],
+      "writers": [
+        "Katsuhiro Ôtomo",
+        "Izô Hashimoto"
+      ],
       "cast": [
         {
           "name": "Mitsuo Iwata",
@@ -94,10 +97,16 @@
           "character": "Kei"
         }
       ],
-      "rating": 8.0,
+      "rating": 8,
       "duration": 124,
       "releaseDate": "1988-07-16",
-      "genres": ["Animation", "Action", "Drama", "Sci-Fi", "Thriller"],
+      "genres": [
+        "Animation",
+        "Action",
+        "Drama",
+        "Sci-Fi",
+        "Thriller"
+      ],
       "trailer": "https://www.youtube.com/watch?v=nA8KmHC2Z-g",
       "classification": "R",
       "status": "CURRENTLY_IN_CINEMAS"
@@ -109,7 +118,9 @@
       "image": "bugonia.jpg",
       "slug": "bugonia",
       "director": "Yorgos Lanthimos",
-      "writers": ["Will Tracy"],
+      "writers": [
+        "Will Tracy"
+      ],
       "cast": [
         {
           "name": "Emma Stone",
@@ -127,7 +138,11 @@
       "rating": 7.2,
       "duration": 110,
       "releaseDate": "2025-11-07",
-      "genres": ["Comedy", "Sci-Fi", "Thriller"],
+      "genres": [
+        "Comedy",
+        "Sci-Fi",
+        "Thriller"
+      ],
       "trailer": "https://www.youtube.com/watch?v=example",
       "classification": "R",
       "status": "CURRENTLY_IN_CINEMAS"
@@ -139,7 +154,9 @@
       "image": "david.jpg",
       "slug": "david",
       "director": "Michael B. Jordan",
-      "writers": ["Ryan Coogler"],
+      "writers": [
+        "Ryan Coogler"
+      ],
       "cast": [
         {
           "name": "To be announced",
@@ -149,7 +166,11 @@
       "rating": 7.5,
       "duration": 120,
       "releaseDate": "2025-12-25",
-      "genres": ["Drama", "History", "Adventure"],
+      "genres": [
+        "Drama",
+        "History",
+        "Adventure"
+      ],
       "trailer": "https://www.youtube.com/watch?v=example",
       "classification": "PG-13",
       "status": "CURRENTLY_IN_CINEMAS"
@@ -161,17 +182,23 @@
       "image": "der-tiger.jpg",
       "slug": "der-tiger",
       "director": "Various",
-      "writers": ["Various"],
+      "writers": [
+        "Various"
+      ],
       "cast": [
         {
           "name": "To be announced",
           "character": "Lead Role"
         }
       ],
-      "rating": 7.0,
+      "rating": 7,
       "duration": 105,
       "releaseDate": "2025-03-15",
-      "genres": ["Thriller", "Drama", "Adventure"],
+      "genres": [
+        "Thriller",
+        "Drama",
+        "Adventure"
+      ],
       "trailer": "https://www.youtube.com/watch?v=example",
       "classification": "PG-13",
       "status": "CURRENTLY_IN_CINEMAS"
@@ -183,7 +210,10 @@
       "image": "eleanor-the-Great.jpg",
       "slug": "eleanor-the-great",
       "director": "Scarlett Johansson",
-      "writers": ["Paco Cabezas", "Nick Payne"],
+      "writers": [
+        "Paco Cabezas",
+        "Nick Payne"
+      ],
       "cast": [
         {
           "name": "June Squibb",
@@ -201,7 +231,11 @@
       "rating": 7.3,
       "duration": 95,
       "releaseDate": "2025-05-09",
-      "genres": ["Comedy", "Drama", "Adventure"],
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Adventure"
+      ],
       "trailer": "https://www.youtube.com/watch?v=example",
       "classification": "PG-13",
       "status": "CURRENTLY_IN_CINEMAS"
@@ -213,7 +247,10 @@
       "image": "now-you-see-me-3.jpg",
       "slug": "now-you-see-me-3",
       "director": "Ruben Fleischer",
-      "writers": ["Eric Warren Singer", "Seth Grahame-Smith"],
+      "writers": [
+        "Eric Warren Singer",
+        "Seth Grahame-Smith"
+      ],
       "cast": [
         {
           "name": "Jesse Eisenberg",
@@ -235,7 +272,11 @@
       "rating": 7.4,
       "duration": 125,
       "releaseDate": "2025-11-14",
-      "genres": ["Action", "Mystery", "Thriller"],
+      "genres": [
+        "Action",
+        "Mystery",
+        "Thriller"
+      ],
       "trailer": "https://www.youtube.com/watch?v=example",
       "classification": "PG-13",
       "status": "CURRENTLY_IN_CINEMAS"
@@ -247,7 +288,9 @@
       "image": "nuremberga.jpg",
       "slug": "the-nuremberg-trials",
       "director": "James Kent",
-      "writers": ["Various"],
+      "writers": [
+        "Various"
+      ],
       "cast": [
         {
           "name": "Russell Crowe",
@@ -265,7 +308,11 @@
       "rating": 7.8,
       "duration": 145,
       "releaseDate": "2025-09-26",
-      "genres": ["Drama", "History", "War"],
+      "genres": [
+        "Drama",
+        "History",
+        "War"
+      ],
       "trailer": "https://www.youtube.com/watch?v=example",
       "classification": "R",
       "status": "CURRENTLY_IN_CINEMAS"
@@ -277,7 +324,9 @@
       "image": "other.jpg",
       "slug": "the-other",
       "director": "Various",
-      "writers": ["Various"],
+      "writers": [
+        "Various"
+      ],
       "cast": [
         {
           "name": "To be announced",
@@ -287,7 +336,11 @@
       "rating": 7.1,
       "duration": 108,
       "releaseDate": "2025-10-17",
-      "genres": ["Thriller", "Mystery", "Horror"],
+      "genres": [
+        "Thriller",
+        "Mystery",
+        "Horror"
+      ],
       "trailer": "https://www.youtube.com/watch?v=example",
       "classification": "R",
       "status": "CURRENTLY_IN_CINEMAS"
@@ -299,7 +352,11 @@
       "image": "the-spongebob.jpg",
       "slug": "the-spongebob-movie-search-for-squarepants",
       "director": "Derek Drymon",
-      "writers": ["Stephen Hillenburg", "Derek Drymon", "Tim Hill"],
+      "writers": [
+        "Stephen Hillenburg",
+        "Derek Drymon",
+        "Tim Hill"
+      ],
       "cast": [
         {
           "name": "Tom Kenny",
@@ -321,7 +378,12 @@
       "rating": 7.2,
       "duration": 92,
       "releaseDate": "2025-12-19",
-      "genres": ["Animation", "Comedy", "Family", "Adventure"],
+      "genres": [
+        "Animation",
+        "Comedy",
+        "Family",
+        "Adventure"
+      ],
       "trailer": "https://www.youtube.com/watch?v=example",
       "classification": "PG",
       "status": "CURRENTLY_IN_CINEMAS"
@@ -333,7 +395,9 @@
       "image": "wke-up-dead-man.jpg",
       "slug": "wake-up-dead-man-a-knives-out-mystery",
       "director": "Rian Johnson",
-      "writers": ["Rian Johnson"],
+      "writers": [
+        "Rian Johnson"
+      ],
       "cast": [
         {
           "name": "Daniel Craig",
@@ -355,7 +419,12 @@
       "rating": 8.1,
       "duration": 140,
       "releaseDate": "2025-08-01",
-      "genres": ["Mystery", "Comedy", "Crime", "Thriller"],
+      "genres": [
+        "Mystery",
+        "Comedy",
+        "Crime",
+        "Thriller"
+      ],
       "trailer": "https://www.youtube.com/watch?v=example",
       "classification": "PG-13",
       "status": "CURRENTLY_IN_CINEMAS"
@@ -367,7 +436,10 @@
       "image": "zootopia-2.webp",
       "slug": "zootopia-2",
       "director": "Byron Howard",
-      "writers": ["Jared Bush", "Phil Johnston"],
+      "writers": [
+        "Jared Bush",
+        "Phil Johnston"
+      ],
       "cast": [
         {
           "name": "Ginnifer Goodwin",
@@ -389,7 +461,12 @@
       "rating": 7.9,
       "duration": 108,
       "releaseDate": "2025-11-26",
-      "genres": ["Animation", "Adventure", "Comedy", "Family"],
+      "genres": [
+        "Animation",
+        "Adventure",
+        "Comedy",
+        "Family"
+      ],
       "trailer": "https://www.youtube.com/watch?v=example",
       "classification": "PG",
       "status": "CURRENTLY_IN_CINEMAS"
@@ -401,7 +478,11 @@
       "image": "anaconda.jpg",
       "slug": "anaconda",
       "director": "Luis Llosa",
-      "writers": ["Hans Bauer", "Jim Cash", "Jack Epps Jr."],
+      "writers": [
+        "Hans Bauer",
+        "Jim Cash",
+        "Jack Epps Jr."
+      ],
       "cast": [
         {
           "name": "Jennifer Lopez",
@@ -431,7 +512,12 @@
       "rating": 4.9,
       "duration": 89,
       "releaseDate": "1997-04-11",
-      "genres": ["Action", "Adventure", "Horror", "Thriller"],
+      "genres": [
+        "Action",
+        "Adventure",
+        "Horror",
+        "Thriller"
+      ],
       "trailer": "https://www.youtube.com/watch?v=example",
       "classification": "PG-13",
       "status": "TOP_10_MOVIES_THIS_WEEK"
@@ -487,7 +573,12 @@
       "rating": 7.4,
       "duration": 198,
       "releaseDate": "2025-12-19",
-      "genres": ["Action", "Adventure", "Fantasy", "Sci-Fi"],
+      "genres": [
+        "Action",
+        "Adventure",
+        "Fantasy",
+        "Sci-Fi"
+      ],
       "trailer": "https://www.youtube.com/watch?v=example",
       "classification": "PG-13",
       "status": "TOP_10_MOVIES_THIS_WEEK"
@@ -499,7 +590,10 @@
       "image": "greenland-2.jpg",
       "slug": "greenland-2-migration",
       "director": "Ric Roman Waugh",
-      "writers": ["Chris Sparling", "Mitchell LaFortune"],
+      "writers": [
+        "Chris Sparling",
+        "Mitchell LaFortune"
+      ],
       "cast": [
         {
           "name": "Gerard Butler",
@@ -525,7 +619,12 @@
       "rating": 6.1,
       "duration": 119,
       "releaseDate": "2026-01-09",
-      "genres": ["Action", "Adventure", "Thriller", "Disaster"],
+      "genres": [
+        "Action",
+        "Adventure",
+        "Thriller",
+        "Disaster"
+      ],
       "trailer": "https://www.youtube.com/watch?v=example",
       "classification": "PG-13",
       "status": "TOP_10_MOVIES_THIS_WEEK"
@@ -537,7 +636,11 @@
       "image": "paddington-in-peru.jpg",
       "slug": "paddington-in-peru",
       "director": "Dougal Wilson",
-      "writers": ["Mark Burton", "Jon Foster", "James Lamont"],
+      "writers": [
+        "Mark Burton",
+        "Jon Foster",
+        "James Lamont"
+      ],
       "cast": [
         {
           "name": "Ben Whishaw",
@@ -567,7 +670,12 @@
       "rating": 6.6,
       "duration": 106,
       "releaseDate": "2024-11-08",
-      "genres": ["Adventure", "Comedy", "Family", "Animation"],
+      "genres": [
+        "Adventure",
+        "Comedy",
+        "Family",
+        "Animation"
+      ],
       "trailer": "https://www.youtube.com/watch?v=example",
       "classification": "PG",
       "status": "TOP_10_MOVIES_THIS_WEEK"
@@ -579,7 +687,9 @@
       "image": "the-housemaid.webp",
       "slug": "the-housemaid",
       "director": "Paul Feig",
-      "writers": ["Rebecca Sonnenshine"],
+      "writers": [
+        "Rebecca Sonnenshine"
+      ],
       "cast": [
         {
           "name": "Sydney Sweeney",
@@ -602,10 +712,14 @@
           "character": "Evelyn Winchester"
         }
       ],
-      "rating": 7.0,
+      "rating": 7,
       "duration": 131,
       "releaseDate": "2025-12-19",
-      "genres": ["Drama", "Thriller", "Mystery"],
+      "genres": [
+        "Drama",
+        "Thriller",
+        "Mystery"
+      ],
       "trailer": "https://www.youtube.com/watch?v=example",
       "classification": "R",
       "status": "TOP_10_MOVIES_THIS_WEEK"
@@ -617,7 +731,9 @@
       "image": "ikkis.jpg",
       "slug": "ikkis",
       "director": "Sriram Raghavan",
-      "writers": ["Sriram Raghavan"],
+      "writers": [
+        "Sriram Raghavan"
+      ],
       "cast": [
         {
           "name": "Agastya Nanda",
@@ -639,7 +755,13 @@
       "rating": 7.1,
       "duration": 150,
       "releaseDate": "2026-01-01",
-      "genres": ["Action", "Biography", "Drama", "War", "History"],
+      "genres": [
+        "Action",
+        "Biography",
+        "Drama",
+        "War",
+        "History"
+      ],
       "trailer": "https://www.youtube.com/watch?v=example",
       "classification": "PG-13",
       "status": "TOP_10_MOVIES_THIS_WEEK"
@@ -651,7 +773,9 @@
       "image": "one-batle-after-another.jpeg",
       "slug": "one-battle-after-another",
       "director": "Paul Thomas Anderson",
-      "writers": ["Paul Thomas Anderson"],
+      "writers": [
+        "Paul Thomas Anderson"
+      ],
       "cast": [
         {
           "name": "Leonardo DiCaprio",
@@ -681,7 +805,12 @@
       "rating": 7.8,
       "duration": 170,
       "releaseDate": "2025-09-26",
-      "genres": ["Action", "Crime", "Drama", "Thriller"],
+      "genres": [
+        "Action",
+        "Crime",
+        "Drama",
+        "Thriller"
+      ],
       "trailer": "https://www.youtube.com/watch?v=example",
       "classification": "R",
       "status": "TOP_10_MOVIES_THIS_WEEK"
@@ -693,7 +822,9 @@
       "image": "petals-and-memories.jpg",
       "slug": "petals-and-memories",
       "director": "Tetsu Maeda",
-      "writers": ["Keita Kita"],
+      "writers": [
+        "Keita Kita"
+      ],
       "cast": [
         {
           "name": "Ryohei Suzuki",
@@ -715,7 +846,11 @@
       "rating": 7.3,
       "duration": 118,
       "releaseDate": "2025-04-25",
-      "genres": ["Drama", "Family", "Fantasy"],
+      "genres": [
+        "Drama",
+        "Family",
+        "Fantasy"
+      ],
       "trailer": "https://www.youtube.com/watch?v=example",
       "classification": "G",
       "status": "TOP_10_MOVIES_THIS_WEEK"
@@ -727,7 +862,10 @@
       "image": "tere-ishk-mein.jpg",
       "slug": "tere-ishk-mein",
       "director": "Aanand L. Rai",
-      "writers": ["Himanshu Sharma", "Neeraj Yadav"],
+      "writers": [
+        "Himanshu Sharma",
+        "Neeraj Yadav"
+      ],
       "cast": [
         {
           "name": "Dhanush",
@@ -749,7 +887,12 @@
       "rating": 7.5,
       "duration": 169,
       "releaseDate": "2025-11-28",
-      "genres": ["Action", "Drama", "Musical", "Romance"],
+      "genres": [
+        "Action",
+        "Drama",
+        "Musical",
+        "Romance"
+      ],
       "trailer": "https://www.youtube.com/watch?v=example",
       "classification": "UA",
       "status": "TOP_10_MOVIES_THIS_WEEK"
@@ -761,7 +904,9 @@
       "image": "mamlaket-al-qasab.jpg",
       "slug": "the-remarkable-life-of-ibelin",
       "director": "Benjamin Ree",
-      "writers": ["Benjamin Ree"],
+      "writers": [
+        "Benjamin Ree"
+      ],
       "cast": [
         {
           "name": "Mats Steen",
@@ -783,7 +928,11 @@
       "rating": 8.1,
       "duration": 103,
       "releaseDate": "2024-10-25",
-      "genres": ["Documentary", "Animation", "Biography"],
+      "genres": [
+        "Documentary",
+        "Animation",
+        "Biography"
+      ],
       "trailer": "https://www.youtube.com/watch?v=example",
       "classification": "PG-13",
       "status": "COMING_SOON"
@@ -831,7 +980,13 @@
       "rating": 7.5,
       "duration": 95,
       "releaseDate": "2026-10-09",
-      "genres": ["Animation", "Action", "Adventure", "Comedy", "Family"],
+      "genres": [
+        "Animation",
+        "Action",
+        "Adventure",
+        "Comedy",
+        "Family"
+      ],
       "trailer": "https://www.youtube.com/watch?v=example",
       "classification": "PG",
       "status": "COMING_SOON"
@@ -843,7 +998,11 @@
       "image": "tin-soldier.jpg",
       "slug": "tin-soldier",
       "director": "Brad Furman",
-      "writers": ["Brad Furman", "Jess Fuerst", "Pablo Fenjves"],
+      "writers": [
+        "Brad Furman",
+        "Jess Fuerst",
+        "Pablo Fenjves"
+      ],
       "cast": [
         {
           "name": "Scott Eastwood",
@@ -873,7 +1032,11 @@
       "rating": 3.3,
       "duration": 86,
       "releaseDate": "2025-05-08",
-      "genres": ["Action", "Thriller", "Drama"],
+      "genres": [
+        "Action",
+        "Thriller",
+        "Drama"
+      ],
       "trailer": "https://www.youtube.com/watch?v=example",
       "classification": "R",
       "status": "COMING_SOON"
@@ -885,7 +1048,10 @@
       "image": "unspoken.jpg",
       "slug": "unspoken",
       "director": "Daming Chen",
-      "writers": ["Daming Chen", "Peter Walters"],
+      "writers": [
+        "Daming Chen",
+        "Peter Walters"
+      ],
       "cast": [
         {
           "name": "Zhang Hanyu",
@@ -911,7 +1077,12 @@
       "rating": 8.1,
       "duration": 115,
       "releaseDate": "2024-01-14",
-      "genres": ["Crime", "Drama", "Thriller", "Mystery"],
+      "genres": [
+        "Crime",
+        "Drama",
+        "Thriller",
+        "Mystery"
+      ],
       "trailer": "https://www.youtube.com/watch?v=example",
       "classification": "R",
       "status": "COMING_SOON"
@@ -923,7 +1094,10 @@
       "image": "rental-family.jpg",
       "slug": "rental-family",
       "director": "Hikari",
-      "writers": ["Hikari", "Stephen Blahut"],
+      "writers": [
+        "Hikari",
+        "Stephen Blahut"
+      ],
       "cast": [
         {
           "name": "Brendan Fraser",
@@ -949,7 +1123,10 @@
       "rating": 7.9,
       "duration": 110,
       "releaseDate": "2025-11-21",
-      "genres": ["Comedy", "Drama"],
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
       "trailer": "https://www.youtube.com/watch?v=example",
       "classification": "PG-13",
       "status": "COMING_SOON"
@@ -961,7 +1138,10 @@
       "image": "send-help.jpg",
       "slug": "send-help",
       "director": "Sam Raimi",
-      "writers": ["Damian Shannon", "Mark Swift"],
+      "writers": [
+        "Damian Shannon",
+        "Mark Swift"
+      ],
       "cast": [
         {
           "name": "Rachel McAdams",
@@ -991,7 +1171,11 @@
       "rating": 7.2,
       "duration": 108,
       "releaseDate": "2026-01-30",
-      "genres": ["Horror", "Thriller", "Comedy"],
+      "genres": [
+        "Horror",
+        "Thriller",
+        "Comedy"
+      ],
       "trailer": "https://www.youtube.com/watch?v=example",
       "classification": "R",
       "status": "COMING_SOON"
@@ -1030,10 +1214,15 @@
           "character": "Supporting Role"
         }
       ],
-      "rating": 7.0,
+      "rating": 7,
       "duration": 106,
       "releaseDate": "2026-01-23",
-      "genres": ["Horror", "Mystery", "Thriller", "Drama"],
+      "genres": [
+        "Horror",
+        "Mystery",
+        "Thriller",
+        "Drama"
+      ],
       "trailer": "https://www.youtube.com/watch?v=example",
       "classification": "R",
       "status": "COMING_SOON"
@@ -1045,7 +1234,9 @@
       "image": "cold-storage.jpg",
       "slug": "cold-storage",
       "director": "Jonny Campbell",
-      "writers": ["David Koepp"],
+      "writers": [
+        "David Koepp"
+      ],
       "cast": [
         {
           "name": "Joe Keery",
@@ -1075,7 +1266,12 @@
       "rating": 7.1,
       "duration": 99,
       "releaseDate": "2026-02-13",
-      "genres": ["Comedy", "Horror", "Sci-Fi", "Thriller"],
+      "genres": [
+        "Comedy",
+        "Horror",
+        "Sci-Fi",
+        "Thriller"
+      ],
       "trailer": "https://www.youtube.com/watch?v=example",
       "classification": "R",
       "status": "COMING_SOON"
@@ -1095,9 +1291,18 @@
         }
       },
       "format": "4DX",
-      "date": "14/01/2026",
-      "time": ["12:00", "15:00", "18:00", "21:00"],
-      "tags": ["Reserved seating", "IMAX Experience", "Dolby Atmos"]
+      "date": "18/01/2026",
+      "time": [
+        "12:00",
+        "15:00",
+        "18:00",
+        "21:00"
+      ],
+      "tags": [
+        "Reserved seating",
+        "IMAX Experience",
+        "Dolby Atmos"
+      ]
     },
     {
       "id": 2,
@@ -1112,9 +1317,18 @@
         }
       },
       "format": "IMAX",
-      "date": "19/01/2026",
-      "time": ["11:00", "14:00", "17:00", "20:00"],
-      "tags": ["Reserved seating", "Dolby Atmos", "Premium experience"]
+      "date": "23/01/2026",
+      "time": [
+        "11:00",
+        "14:00",
+        "17:00",
+        "20:00"
+      ],
+      "tags": [
+        "Reserved seating",
+        "Dolby Atmos",
+        "Premium experience"
+      ]
     },
     {
       "id": 3,
@@ -1129,8 +1343,16 @@
         }
       },
       "format": "IMAX",
-      "date": "26/01/2026",
-      "time": ["10:00", "12:00", "14:00", "16:00", "18:00", "20:00", "22:00"],
+      "date": "30/01/2026",
+      "time": [
+        "10:00",
+        "12:00",
+        "14:00",
+        "16:00",
+        "18:00",
+        "20:00",
+        "22:00"
+      ],
       "tags": [
         "Family friendly",
         "Closed caption",
@@ -1150,9 +1372,18 @@
         }
       },
       "format": "4DX",
-      "date": "17/01/2026",
-      "time": ["12:00", "15:00", "18:00", "21:00"],
-      "tags": ["4DX Experience", "Motion seats", "Special effects"]
+      "date": "21/01/2026",
+      "time": [
+        "12:00",
+        "15:00",
+        "18:00",
+        "21:00"
+      ],
+      "tags": [
+        "4DX Experience",
+        "Motion seats",
+        "Special effects"
+      ]
     },
     {
       "id": 5,
@@ -1167,9 +1398,18 @@
         }
       },
       "format": "3D",
-      "date": "16/01/2026",
-      "time": ["12:00", "15:00", "18:00", "21:00"],
-      "tags": ["Reserved seating", "Dolby Atmos", "Premium experience"]
+      "date": "20/01/2026",
+      "time": [
+        "12:00",
+        "15:00",
+        "18:00",
+        "21:00"
+      ],
+      "tags": [
+        "Reserved seating",
+        "Dolby Atmos",
+        "Premium experience"
+      ]
     },
     {
       "id": 6,
@@ -1184,9 +1424,21 @@
         }
       },
       "format": "4DX",
-      "date": "20/01/2026",
-      "time": ["10:00", "12:00", "14:00", "16:00", "18:00", "20:00", "22:00"],
-      "tags": ["Reserved seating", "Dolby Atmos", "Premium experience"]
+      "date": "24/01/2026",
+      "time": [
+        "10:00",
+        "12:00",
+        "14:00",
+        "16:00",
+        "18:00",
+        "20:00",
+        "22:00"
+      ],
+      "tags": [
+        "Reserved seating",
+        "Dolby Atmos",
+        "Premium experience"
+      ]
     },
     {
       "id": 7,
@@ -1201,9 +1453,21 @@
         }
       },
       "format": "IMAX",
-      "date": "24/01/2026",
-      "time": ["10:00", "12:00", "14:00", "16:00", "18:00", "20:00", "22:00"],
-      "tags": ["Reserved seating", "Dolby Atmos", "Premium experience"]
+      "date": "28/01/2026",
+      "time": [
+        "10:00",
+        "12:00",
+        "14:00",
+        "16:00",
+        "18:00",
+        "20:00",
+        "22:00"
+      ],
+      "tags": [
+        "Reserved seating",
+        "Dolby Atmos",
+        "Premium experience"
+      ]
     },
     {
       "id": 8,
@@ -1218,9 +1482,17 @@
         }
       },
       "format": "2D",
-      "date": "19/01/2026",
-      "time": ["11:30", "14:30", "17:30", "20:30"],
-      "tags": ["Reserved seating", "Closed caption"]
+      "date": "23/01/2026",
+      "time": [
+        "11:30",
+        "14:30",
+        "17:30",
+        "20:30"
+      ],
+      "tags": [
+        "Reserved seating",
+        "Closed caption"
+      ]
     },
     {
       "id": 9,
@@ -1235,9 +1507,18 @@
         }
       },
       "format": "2D",
-      "date": "17/01/2026",
-      "time": ["10:30", "13:00", "15:30", "18:00", "20:30"],
-      "tags": ["Reserved seating", "Closed caption"]
+      "date": "21/01/2026",
+      "time": [
+        "10:30",
+        "13:00",
+        "15:30",
+        "18:00",
+        "20:30"
+      ],
+      "tags": [
+        "Reserved seating",
+        "Closed caption"
+      ]
     },
     {
       "id": 10,
@@ -1252,8 +1533,13 @@
         }
       },
       "format": "3D",
-      "date": "17/01/2026",
-      "time": ["11:30", "14:30", "17:30", "20:30"],
+      "date": "21/01/2026",
+      "time": [
+        "11:30",
+        "14:30",
+        "17:30",
+        "20:30"
+      ],
       "tags": [
         "Family friendly",
         "Closed caption",
@@ -1273,8 +1559,14 @@
         }
       },
       "format": "4DX",
-      "date": "25/01/2026",
-      "time": ["10:00", "12:30", "15:00", "17:30", "20:00"],
+      "date": "29/01/2026",
+      "time": [
+        "10:00",
+        "12:30",
+        "15:00",
+        "17:30",
+        "20:00"
+      ],
       "tags": [
         "Family friendly",
         "Closed caption",
@@ -1294,8 +1586,13 @@
         }
       },
       "format": "3D",
-      "date": "19/01/2026",
-      "time": ["13:00", "16:00", "19:00", "21:30"],
+      "date": "23/01/2026",
+      "time": [
+        "13:00",
+        "16:00",
+        "19:00",
+        "21:30"
+      ],
       "tags": [
         "IMAX Experience",
         "Family friendly",
@@ -1316,9 +1613,19 @@
         }
       },
       "format": "2D",
-      "date": "24/01/2026",
-      "time": ["10:30", "13:00", "15:30", "18:00", "20:30"],
-      "tags": ["Reserved seating", "Dolby Atmos", "Premium experience"]
+      "date": "28/01/2026",
+      "time": [
+        "10:30",
+        "13:00",
+        "15:30",
+        "18:00",
+        "20:30"
+      ],
+      "tags": [
+        "Reserved seating",
+        "Dolby Atmos",
+        "Premium experience"
+      ]
     },
     {
       "id": 14,
@@ -1333,9 +1640,18 @@
         }
       },
       "format": "IMAX",
-      "date": "26/01/2026",
-      "time": ["10:30", "13:00", "15:30", "18:00", "20:30"],
-      "tags": ["Reserved seating", "Closed caption"]
+      "date": "30/01/2026",
+      "time": [
+        "10:30",
+        "13:00",
+        "15:30",
+        "18:00",
+        "20:30"
+      ],
+      "tags": [
+        "Reserved seating",
+        "Closed caption"
+      ]
     },
     {
       "id": 15,
@@ -1350,9 +1666,18 @@
         }
       },
       "format": "4DX",
-      "date": "26/01/2026",
-      "time": ["12:00", "15:00", "18:00", "21:00"],
-      "tags": ["Reserved seating", "Closed caption", "Premium sound"]
+      "date": "30/01/2026",
+      "time": [
+        "12:00",
+        "15:00",
+        "18:00",
+        "21:00"
+      ],
+      "tags": [
+        "Reserved seating",
+        "Closed caption",
+        "Premium sound"
+      ]
     },
     {
       "id": 16,
@@ -1367,8 +1692,13 @@
         }
       },
       "format": "2D",
-      "date": "26/01/2026",
-      "time": ["13:00", "16:00", "19:00", "21:30"],
+      "date": "30/01/2026",
+      "time": [
+        "13:00",
+        "16:00",
+        "19:00",
+        "21:30"
+      ],
       "tags": [
         "Reserved seating",
         "Closed caption",
@@ -1388,9 +1718,17 @@
         }
       },
       "format": "3D",
-      "date": "15/01/2026",
-      "time": ["13:00", "16:00", "19:00", "21:30"],
-      "tags": ["Reserved seating", "Closed caption"]
+      "date": "19/01/2026",
+      "time": [
+        "13:00",
+        "16:00",
+        "19:00",
+        "21:30"
+      ],
+      "tags": [
+        "Reserved seating",
+        "Closed caption"
+      ]
     },
     {
       "id": 18,
@@ -1405,8 +1743,14 @@
         }
       },
       "format": "3D",
-      "date": "20/01/2026",
-      "time": ["10:00", "12:30", "15:00", "17:30", "20:00"],
+      "date": "24/01/2026",
+      "time": [
+        "10:00",
+        "12:30",
+        "15:00",
+        "17:30",
+        "20:00"
+      ],
       "tags": [
         "Reserved seating",
         "3D Experience",
@@ -1426,9 +1770,20 @@
         }
       },
       "format": "2D",
-      "date": "23/01/2026",
-      "time": ["10:00", "12:00", "14:00", "16:00", "18:00", "20:00", "22:00"],
-      "tags": ["Reserved seating", "Closed caption"]
+      "date": "27/01/2026",
+      "time": [
+        "10:00",
+        "12:00",
+        "14:00",
+        "16:00",
+        "18:00",
+        "20:00",
+        "22:00"
+      ],
+      "tags": [
+        "Reserved seating",
+        "Closed caption"
+      ]
     },
     {
       "id": 20,
@@ -1443,9 +1798,18 @@
         }
       },
       "format": "4DX",
-      "date": "17/01/2026",
-      "time": ["12:00", "15:00", "18:00", "21:00"],
-      "tags": ["Reserved seating", "Closed caption", "Premium sound"]
+      "date": "21/01/2026",
+      "time": [
+        "12:00",
+        "15:00",
+        "18:00",
+        "21:00"
+      ],
+      "tags": [
+        "Reserved seating",
+        "Closed caption",
+        "Premium sound"
+      ]
     },
     {
       "id": 21,
@@ -1460,8 +1824,14 @@
         }
       },
       "format": "4DX",
-      "date": "23/01/2026",
-      "time": ["10:00", "12:30", "15:00", "17:30", "20:00"],
+      "date": "27/01/2026",
+      "time": [
+        "10:00",
+        "12:30",
+        "15:00",
+        "17:30",
+        "20:00"
+      ],
       "tags": [
         "IMAX Experience",
         "Family friendly",
@@ -1482,8 +1852,16 @@
         }
       },
       "format": "IMAX",
-      "date": "18/01/2026",
-      "time": ["10:00", "12:00", "14:00", "16:00", "18:00", "20:00", "22:00"],
+      "date": "22/01/2026",
+      "time": [
+        "10:00",
+        "12:00",
+        "14:00",
+        "16:00",
+        "18:00",
+        "20:00",
+        "22:00"
+      ],
       "tags": [
         "Reserved seating",
         "3D Experience",
@@ -1503,9 +1881,18 @@
         }
       },
       "format": "2D",
-      "date": "25/01/2026",
-      "time": ["13:00", "16:00", "19:00", "21:30"],
-      "tags": ["Reserved seating", "Closed caption", "Premium sound"]
+      "date": "29/01/2026",
+      "time": [
+        "13:00",
+        "16:00",
+        "19:00",
+        "21:30"
+      ],
+      "tags": [
+        "Reserved seating",
+        "Closed caption",
+        "Premium sound"
+      ]
     },
     {
       "id": 24,
@@ -1520,9 +1907,19 @@
         }
       },
       "format": "2D",
-      "date": "15/01/2026",
-      "time": ["10:00", "12:30", "15:00", "17:30", "20:00"],
-      "tags": ["Reserved seating", "Dolby Atmos", "Premium experience"]
+      "date": "19/01/2026",
+      "time": [
+        "10:00",
+        "12:30",
+        "15:00",
+        "17:30",
+        "20:00"
+      ],
+      "tags": [
+        "Reserved seating",
+        "Dolby Atmos",
+        "Premium experience"
+      ]
     },
     {
       "id": 25,
@@ -1537,9 +1934,18 @@
         }
       },
       "format": "2D",
-      "date": "23/01/2026",
-      "time": ["10:00", "12:30", "15:00", "17:30", "20:00"],
-      "tags": ["Reserved seating", "Closed caption"]
+      "date": "27/01/2026",
+      "time": [
+        "10:00",
+        "12:30",
+        "15:00",
+        "17:30",
+        "20:00"
+      ],
+      "tags": [
+        "Reserved seating",
+        "Closed caption"
+      ]
     },
     {
       "id": 26,
@@ -1554,9 +1960,18 @@
         }
       },
       "format": "2D",
-      "date": "24/01/2026",
-      "time": ["11:30", "14:30", "17:30", "20:30"],
-      "tags": ["Family friendly", "Reserved seating", "Closed caption"]
+      "date": "28/01/2026",
+      "time": [
+        "11:30",
+        "14:30",
+        "17:30",
+        "20:30"
+      ],
+      "tags": [
+        "Family friendly",
+        "Reserved seating",
+        "Closed caption"
+      ]
     },
     {
       "id": 27,
@@ -1571,9 +1986,19 @@
         }
       },
       "format": "2D",
-      "date": "24/01/2026",
-      "time": ["10:30", "13:00", "15:30", "18:00", "20:30"],
-      "tags": ["Reserved seating", "Dolby Atmos", "Premium experience"]
+      "date": "28/01/2026",
+      "time": [
+        "10:30",
+        "13:00",
+        "15:30",
+        "18:00",
+        "20:30"
+      ],
+      "tags": [
+        "Reserved seating",
+        "Dolby Atmos",
+        "Premium experience"
+      ]
     },
     {
       "id": 28,
@@ -1588,9 +2013,19 @@
         }
       },
       "format": "3D",
-      "date": "19/01/2026",
-      "time": ["10:30", "13:00", "15:30", "18:00", "20:30"],
-      "tags": ["Reserved seating", "Dolby Atmos", "Premium experience"]
+      "date": "23/01/2026",
+      "time": [
+        "10:30",
+        "13:00",
+        "15:30",
+        "18:00",
+        "20:30"
+      ],
+      "tags": [
+        "Reserved seating",
+        "Dolby Atmos",
+        "Premium experience"
+      ]
     },
     {
       "id": 29,
@@ -1605,9 +2040,18 @@
         }
       },
       "format": "3D",
-      "date": "27/01/2026",
-      "time": ["12:00", "15:00", "18:00", "21:00"],
-      "tags": ["Reserved seating", "Dolby Atmos", "Premium experience"]
+      "date": "31/01/2026",
+      "time": [
+        "12:00",
+        "15:00",
+        "18:00",
+        "21:00"
+      ],
+      "tags": [
+        "Reserved seating",
+        "Dolby Atmos",
+        "Premium experience"
+      ]
     },
     {
       "id": 30,
@@ -1622,9 +2066,18 @@
         }
       },
       "format": "4DX",
-      "date": "14/01/2026",
-      "time": ["12:00", "15:00", "18:00", "21:00"],
-      "tags": ["Reserved seating", "Dolby Atmos", "Premium experience"]
+      "date": "18/01/2026",
+      "time": [
+        "12:00",
+        "15:00",
+        "18:00",
+        "21:00"
+      ],
+      "tags": [
+        "Reserved seating",
+        "Dolby Atmos",
+        "Premium experience"
+      ]
     },
     {
       "id": 31,
@@ -1639,8 +2092,13 @@
         }
       },
       "format": "4DX",
-      "date": "14/01/2026",
-      "time": ["11:00", "14:00", "17:00", "20:00"],
+      "date": "18/01/2026",
+      "time": [
+        "11:00",
+        "14:00",
+        "17:00",
+        "20:00"
+      ],
       "tags": [
         "Reserved seating",
         "Closed caption",
@@ -1660,9 +2118,18 @@
         }
       },
       "format": "4DX",
-      "date": "16/01/2026",
-      "time": ["12:00", "15:00", "18:00", "21:00"],
-      "tags": ["4DX Experience", "Motion seats", "Special effects"]
+      "date": "20/01/2026",
+      "time": [
+        "12:00",
+        "15:00",
+        "18:00",
+        "21:00"
+      ],
+      "tags": [
+        "4DX Experience",
+        "Motion seats",
+        "Special effects"
+      ]
     },
     {
       "id": 33,
@@ -1677,8 +2144,14 @@
         }
       },
       "format": "4DX",
-      "date": "20/01/2026",
-      "time": ["10:30", "13:00", "15:30", "18:00", "20:30"],
+      "date": "24/01/2026",
+      "time": [
+        "10:30",
+        "13:00",
+        "15:30",
+        "18:00",
+        "20:30"
+      ],
       "tags": [
         "IMAX Experience",
         "Family friendly",
@@ -1699,8 +2172,14 @@
         }
       },
       "format": "3D",
-      "date": "22/01/2026",
-      "time": ["10:30", "13:00", "15:30", "18:00", "20:30"],
+      "date": "26/01/2026",
+      "time": [
+        "10:30",
+        "13:00",
+        "15:30",
+        "18:00",
+        "20:30"
+      ],
       "tags": [
         "Reserved seating",
         "3D Experience",
@@ -1720,9 +2199,19 @@
         }
       },
       "format": "IMAX",
-      "date": "18/01/2026",
-      "time": ["10:00", "12:30", "15:00", "17:30", "20:00"],
-      "tags": ["Reserved seating", "Closed caption", "Premium sound"]
+      "date": "22/01/2026",
+      "time": [
+        "10:00",
+        "12:30",
+        "15:00",
+        "17:30",
+        "20:00"
+      ],
+      "tags": [
+        "Reserved seating",
+        "Closed caption",
+        "Premium sound"
+      ]
     },
     {
       "id": 36,
@@ -1737,8 +2226,13 @@
         }
       },
       "format": "2D",
-      "date": "20/01/2026",
-      "time": ["11:00", "14:00", "17:00", "20:00"],
+      "date": "24/01/2026",
+      "time": [
+        "11:00",
+        "14:00",
+        "17:00",
+        "20:00"
+      ],
       "tags": [
         "Family friendly",
         "Closed caption",
@@ -1758,9 +2252,17 @@
         }
       },
       "format": "3D",
-      "date": "27/01/2026",
-      "time": ["13:00", "16:00", "19:00", "21:30"],
-      "tags": ["Reserved seating", "Closed caption"]
+      "date": "31/01/2026",
+      "time": [
+        "13:00",
+        "16:00",
+        "19:00",
+        "21:30"
+      ],
+      "tags": [
+        "Reserved seating",
+        "Closed caption"
+      ]
     },
     {
       "id": 38,
@@ -1775,8 +2277,13 @@
         }
       },
       "format": "3D",
-      "date": "14/01/2026",
-      "time": ["12:00", "15:00", "18:00", "21:00"],
+      "date": "18/01/2026",
+      "time": [
+        "12:00",
+        "15:00",
+        "18:00",
+        "21:00"
+      ],
       "tags": [
         "IMAX Experience",
         "Family friendly",
@@ -1797,8 +2304,14 @@
         }
       },
       "format": "2D",
-      "date": "16/01/2026",
-      "time": ["10:00", "12:30", "15:00", "17:30", "20:00"],
+      "date": "20/01/2026",
+      "time": [
+        "10:00",
+        "12:30",
+        "15:00",
+        "17:30",
+        "20:00"
+      ],
       "tags": [
         "IMAX Experience",
         "Family friendly",
@@ -1819,8 +2332,14 @@
         }
       },
       "format": "4DX",
-      "date": "26/01/2026",
-      "time": ["10:30", "13:00", "15:30", "18:00", "20:30"],
+      "date": "30/01/2026",
+      "time": [
+        "10:30",
+        "13:00",
+        "15:30",
+        "18:00",
+        "20:30"
+      ],
       "tags": [
         "Reserved seating",
         "Closed caption",
@@ -1840,9 +2359,18 @@
         }
       },
       "format": "3D",
-      "date": "26/01/2026",
-      "time": ["12:00", "15:00", "18:00", "21:00"],
-      "tags": ["4DX Experience", "Motion seats", "Special effects"]
+      "date": "30/01/2026",
+      "time": [
+        "12:00",
+        "15:00",
+        "18:00",
+        "21:00"
+      ],
+      "tags": [
+        "4DX Experience",
+        "Motion seats",
+        "Special effects"
+      ]
     },
     {
       "id": 42,
@@ -1857,9 +2385,19 @@
         }
       },
       "format": "3D",
-      "date": "23/01/2026",
-      "time": ["10:00", "12:30", "15:00", "17:30", "20:00"],
-      "tags": ["4DX Experience", "Motion seats", "Special effects"]
+      "date": "27/01/2026",
+      "time": [
+        "10:00",
+        "12:30",
+        "15:00",
+        "17:30",
+        "20:00"
+      ],
+      "tags": [
+        "4DX Experience",
+        "Motion seats",
+        "Special effects"
+      ]
     },
     {
       "id": 43,
@@ -1874,9 +2412,18 @@
         }
       },
       "format": "IMAX",
-      "date": "27/01/2026",
-      "time": ["13:00", "16:00", "19:00", "21:30"],
-      "tags": ["Family friendly", "Reserved seating", "Closed caption"]
+      "date": "31/01/2026",
+      "time": [
+        "13:00",
+        "16:00",
+        "19:00",
+        "21:30"
+      ],
+      "tags": [
+        "Family friendly",
+        "Reserved seating",
+        "Closed caption"
+      ]
     },
     {
       "id": 44,
@@ -1891,8 +2438,13 @@
         }
       },
       "format": "3D",
-      "date": "24/01/2026",
-      "time": ["12:00", "15:00", "18:00", "21:00"],
+      "date": "28/01/2026",
+      "time": [
+        "12:00",
+        "15:00",
+        "18:00",
+        "21:00"
+      ],
       "tags": [
         "Reserved seating",
         "Closed caption",
@@ -1912,9 +2464,18 @@
         }
       },
       "format": "3D",
-      "date": "23/01/2026",
-      "time": ["12:00", "15:00", "18:00", "21:00"],
-      "tags": ["Reserved seating", "Dolby Atmos", "Premium experience"]
+      "date": "27/01/2026",
+      "time": [
+        "12:00",
+        "15:00",
+        "18:00",
+        "21:00"
+      ],
+      "tags": [
+        "Reserved seating",
+        "Dolby Atmos",
+        "Premium experience"
+      ]
     },
     {
       "id": 46,
@@ -1929,8 +2490,13 @@
         }
       },
       "format": "4DX",
-      "date": "16/01/2026",
-      "time": ["11:00", "14:00", "17:00", "20:00"],
+      "date": "20/01/2026",
+      "time": [
+        "11:00",
+        "14:00",
+        "17:00",
+        "20:00"
+      ],
       "tags": [
         "Reserved seating",
         "Closed caption",
@@ -1950,8 +2516,16 @@
         }
       },
       "format": "2D",
-      "date": "23/01/2026",
-      "time": ["10:00", "12:00", "14:00", "16:00", "18:00", "20:00", "22:00"],
+      "date": "27/01/2026",
+      "time": [
+        "10:00",
+        "12:00",
+        "14:00",
+        "16:00",
+        "18:00",
+        "20:00",
+        "22:00"
+      ],
       "tags": [
         "Reserved seating",
         "Closed caption",
@@ -1971,9 +2545,18 @@
         }
       },
       "format": "4DX",
-      "date": "21/01/2026",
-      "time": ["11:30", "14:30", "17:30", "20:30"],
-      "tags": ["Reserved seating", "Closed caption", "Premium sound"]
+      "date": "25/01/2026",
+      "time": [
+        "11:30",
+        "14:30",
+        "17:30",
+        "20:30"
+      ],
+      "tags": [
+        "Reserved seating",
+        "Closed caption",
+        "Premium sound"
+      ]
     },
     {
       "id": 49,
@@ -1988,8 +2571,13 @@
         }
       },
       "format": "2D",
-      "date": "16/01/2026",
-      "time": ["12:00", "15:00", "18:00", "21:00"],
+      "date": "20/01/2026",
+      "time": [
+        "12:00",
+        "15:00",
+        "18:00",
+        "21:00"
+      ],
       "tags": [
         "Family friendly",
         "Closed caption",
@@ -2009,8 +2597,14 @@
         }
       },
       "format": "3D",
-      "date": "16/01/2026",
-      "time": ["10:00", "12:30", "15:00", "17:30", "20:00"],
+      "date": "20/01/2026",
+      "time": [
+        "10:00",
+        "12:30",
+        "15:00",
+        "17:30",
+        "20:00"
+      ],
       "tags": [
         "Reserved seating",
         "3D Experience",
@@ -2030,8 +2624,13 @@
         }
       },
       "format": "2D",
-      "date": "16/01/2026",
-      "time": ["12:00", "15:00", "18:00", "21:00"],
+      "date": "20/01/2026",
+      "time": [
+        "12:00",
+        "15:00",
+        "18:00",
+        "21:00"
+      ],
       "tags": [
         "IMAX Experience",
         "Family friendly",
@@ -2052,8 +2651,13 @@
         }
       },
       "format": "4DX",
-      "date": "19/01/2026",
-      "time": ["11:00", "14:00", "17:00", "20:00"],
+      "date": "23/01/2026",
+      "time": [
+        "11:00",
+        "14:00",
+        "17:00",
+        "20:00"
+      ],
       "tags": [
         "IMAX Experience",
         "Family friendly",
@@ -2074,9 +2678,19 @@
         }
       },
       "format": "4DX",
-      "date": "21/01/2026",
-      "time": ["10:00", "12:30", "15:00", "17:30", "20:00"],
-      "tags": ["Family friendly", "Reserved seating", "Closed caption"]
+      "date": "25/01/2026",
+      "time": [
+        "10:00",
+        "12:30",
+        "15:00",
+        "17:30",
+        "20:00"
+      ],
+      "tags": [
+        "Family friendly",
+        "Reserved seating",
+        "Closed caption"
+      ]
     },
     {
       "id": 54,
@@ -2091,9 +2705,18 @@
         }
       },
       "format": "2D",
-      "date": "23/01/2026",
-      "time": ["13:00", "16:00", "19:00", "21:30"],
-      "tags": ["Reserved seating", "Closed caption", "Premium sound"]
+      "date": "27/01/2026",
+      "time": [
+        "13:00",
+        "16:00",
+        "19:00",
+        "21:30"
+      ],
+      "tags": [
+        "Reserved seating",
+        "Closed caption",
+        "Premium sound"
+      ]
     },
     {
       "id": 55,
@@ -2108,8 +2731,14 @@
         }
       },
       "format": "3D",
-      "date": "22/01/2026",
-      "time": ["10:00", "12:30", "15:00", "17:30", "20:00"],
+      "date": "26/01/2026",
+      "time": [
+        "10:00",
+        "12:30",
+        "15:00",
+        "17:30",
+        "20:00"
+      ],
       "tags": [
         "Reserved seating",
         "3D Experience",
@@ -2129,8 +2758,13 @@
         }
       },
       "format": "2D",
-      "date": "24/01/2026",
-      "time": ["11:30", "14:30", "17:30", "20:30"],
+      "date": "28/01/2026",
+      "time": [
+        "11:30",
+        "14:30",
+        "17:30",
+        "20:30"
+      ],
       "tags": [
         "IMAX Experience",
         "Family friendly",
@@ -2151,9 +2785,18 @@
         }
       },
       "format": "2D",
-      "date": "17/01/2026",
-      "time": ["13:00", "16:00", "19:00", "21:30"],
-      "tags": ["Reserved seating", "Dolby Atmos", "Premium experience"]
+      "date": "21/01/2026",
+      "time": [
+        "13:00",
+        "16:00",
+        "19:00",
+        "21:30"
+      ],
+      "tags": [
+        "Reserved seating",
+        "Dolby Atmos",
+        "Premium experience"
+      ]
     },
     {
       "id": 58,
@@ -2168,8 +2811,13 @@
         }
       },
       "format": "3D",
-      "date": "26/01/2026",
-      "time": ["11:00", "14:00", "17:00", "20:00"],
+      "date": "30/01/2026",
+      "time": [
+        "11:00",
+        "14:00",
+        "17:00",
+        "20:00"
+      ],
       "tags": [
         "IMAX Experience",
         "Family friendly",
@@ -2190,9 +2838,18 @@
         }
       },
       "format": "2D",
-      "date": "19/01/2026",
-      "time": ["11:30", "14:30", "17:30", "20:30"],
-      "tags": ["4DX Experience", "Motion seats", "Special effects"]
+      "date": "23/01/2026",
+      "time": [
+        "11:30",
+        "14:30",
+        "17:30",
+        "20:30"
+      ],
+      "tags": [
+        "4DX Experience",
+        "Motion seats",
+        "Special effects"
+      ]
     },
     {
       "id": 60,
@@ -2207,8 +2864,13 @@
         }
       },
       "format": "3D",
-      "date": "19/01/2026",
-      "time": ["12:00", "15:00", "18:00", "21:00"],
+      "date": "23/01/2026",
+      "time": [
+        "12:00",
+        "15:00",
+        "18:00",
+        "21:00"
+      ],
       "tags": [
         "Reserved seating",
         "3D Experience",
@@ -2228,9 +2890,21 @@
         }
       },
       "format": "2D",
-      "date": "20/01/2026",
-      "time": ["10:00", "12:00", "14:00", "16:00", "18:00", "20:00", "22:00"],
-      "tags": ["Reserved seating", "Closed caption", "Premium sound"]
+      "date": "24/01/2026",
+      "time": [
+        "10:00",
+        "12:00",
+        "14:00",
+        "16:00",
+        "18:00",
+        "20:00",
+        "22:00"
+      ],
+      "tags": [
+        "Reserved seating",
+        "Closed caption",
+        "Premium sound"
+      ]
     },
     {
       "id": 62,
@@ -2245,9 +2919,19 @@
         }
       },
       "format": "3D",
-      "date": "27/01/2026",
-      "time": ["10:30", "13:00", "15:30", "18:00", "20:30"],
-      "tags": ["4DX Experience", "Motion seats", "Special effects"]
+      "date": "31/01/2026",
+      "time": [
+        "10:30",
+        "13:00",
+        "15:30",
+        "18:00",
+        "20:30"
+      ],
+      "tags": [
+        "4DX Experience",
+        "Motion seats",
+        "Special effects"
+      ]
     },
     {
       "id": 63,
@@ -2262,8 +2946,13 @@
         }
       },
       "format": "4DX",
-      "date": "26/01/2026",
-      "time": ["11:30", "14:30", "17:30", "20:30"],
+      "date": "30/01/2026",
+      "time": [
+        "11:30",
+        "14:30",
+        "17:30",
+        "20:30"
+      ],
       "tags": [
         "Reserved seating",
         "3D Experience",
@@ -2283,9 +2972,19 @@
         }
       },
       "format": "4DX",
-      "date": "19/01/2026",
-      "time": ["10:30", "13:00", "15:30", "18:00", "20:30"],
-      "tags": ["Reserved seating", "Dolby Atmos", "Premium experience"]
+      "date": "23/01/2026",
+      "time": [
+        "10:30",
+        "13:00",
+        "15:30",
+        "18:00",
+        "20:30"
+      ],
+      "tags": [
+        "Reserved seating",
+        "Dolby Atmos",
+        "Premium experience"
+      ]
     },
     {
       "id": 65,
@@ -2300,8 +2999,13 @@
         }
       },
       "format": "2D",
-      "date": "21/01/2026",
-      "time": ["11:00", "14:00", "17:00", "20:00"],
+      "date": "25/01/2026",
+      "time": [
+        "11:00",
+        "14:00",
+        "17:00",
+        "20:00"
+      ],
       "tags": [
         "Family friendly",
         "Closed caption",
@@ -2321,8 +3025,13 @@
         }
       },
       "format": "2D",
-      "date": "24/01/2026",
-      "time": ["13:00", "16:00", "19:00", "21:30"],
+      "date": "28/01/2026",
+      "time": [
+        "13:00",
+        "16:00",
+        "19:00",
+        "21:30"
+      ],
       "tags": [
         "IMAX Experience",
         "Family friendly",
@@ -2343,9 +3052,18 @@
         }
       },
       "format": "4DX",
-      "date": "18/01/2026",
-      "time": ["11:00", "14:00", "17:00", "20:00"],
-      "tags": ["Reserved seating", "IMAX Experience", "Dolby Atmos"]
+      "date": "22/01/2026",
+      "time": [
+        "11:00",
+        "14:00",
+        "17:00",
+        "20:00"
+      ],
+      "tags": [
+        "Reserved seating",
+        "IMAX Experience",
+        "Dolby Atmos"
+      ]
     },
     {
       "id": 68,
@@ -2360,8 +3078,13 @@
         }
       },
       "format": "4DX",
-      "date": "16/01/2026",
-      "time": ["11:00", "14:00", "17:00", "20:00"],
+      "date": "20/01/2026",
+      "time": [
+        "11:00",
+        "14:00",
+        "17:00",
+        "20:00"
+      ],
       "tags": [
         "Reserved seating",
         "3D Experience",
@@ -2381,9 +3104,21 @@
         }
       },
       "format": "2D",
-      "date": "21/01/2026",
-      "time": ["10:00", "12:00", "14:00", "16:00", "18:00", "20:00", "22:00"],
-      "tags": ["Reserved seating", "Closed caption", "Premium sound"]
+      "date": "25/01/2026",
+      "time": [
+        "10:00",
+        "12:00",
+        "14:00",
+        "16:00",
+        "18:00",
+        "20:00",
+        "22:00"
+      ],
+      "tags": [
+        "Reserved seating",
+        "Closed caption",
+        "Premium sound"
+      ]
     },
     {
       "id": 70,
@@ -2398,9 +3133,19 @@
         }
       },
       "format": "3D",
-      "date": "25/01/2026",
-      "time": ["10:00", "12:30", "15:00", "17:30", "20:00"],
-      "tags": ["Reserved seating", "Closed caption", "Premium sound"]
+      "date": "29/01/2026",
+      "time": [
+        "10:00",
+        "12:30",
+        "15:00",
+        "17:30",
+        "20:00"
+      ],
+      "tags": [
+        "Reserved seating",
+        "Closed caption",
+        "Premium sound"
+      ]
     },
     {
       "id": 71,
@@ -2415,8 +3160,13 @@
         }
       },
       "format": "IMAX",
-      "date": "24/01/2026",
-      "time": ["11:30", "14:30", "17:30", "20:30"],
+      "date": "28/01/2026",
+      "time": [
+        "11:30",
+        "14:30",
+        "17:30",
+        "20:30"
+      ],
       "tags": [
         "IMAX Experience",
         "Family friendly",
@@ -2437,8 +3187,13 @@
         }
       },
       "format": "2D",
-      "date": "22/01/2026",
-      "time": ["13:00", "16:00", "19:00", "21:30"],
+      "date": "26/01/2026",
+      "time": [
+        "13:00",
+        "16:00",
+        "19:00",
+        "21:30"
+      ],
       "tags": [
         "IMAX Experience",
         "Family friendly",
@@ -2459,8 +3214,13 @@
         }
       },
       "format": "4DX",
-      "date": "23/01/2026",
-      "time": ["12:00", "15:00", "18:00", "21:00"],
+      "date": "27/01/2026",
+      "time": [
+        "12:00",
+        "15:00",
+        "18:00",
+        "21:00"
+      ],
       "tags": [
         "Family friendly",
         "Closed caption",
@@ -2480,9 +3240,18 @@
         }
       },
       "format": "4DX",
-      "date": "23/01/2026",
-      "time": ["11:30", "14:30", "17:30", "20:30"],
-      "tags": ["Reserved seating", "IMAX Experience", "Dolby Atmos"]
+      "date": "27/01/2026",
+      "time": [
+        "11:30",
+        "14:30",
+        "17:30",
+        "20:30"
+      ],
+      "tags": [
+        "Reserved seating",
+        "IMAX Experience",
+        "Dolby Atmos"
+      ]
     },
     {
       "id": 75,
@@ -2497,9 +3266,18 @@
         }
       },
       "format": "2D",
-      "date": "15/01/2026",
-      "time": ["12:00", "15:00", "18:00", "21:00"],
-      "tags": ["Reserved seating", "Closed caption", "Premium sound"]
+      "date": "19/01/2026",
+      "time": [
+        "12:00",
+        "15:00",
+        "18:00",
+        "21:00"
+      ],
+      "tags": [
+        "Reserved seating",
+        "Closed caption",
+        "Premium sound"
+      ]
     },
     {
       "id": 76,
@@ -2514,8 +3292,13 @@
         }
       },
       "format": "IMAX",
-      "date": "23/01/2026",
-      "time": ["12:00", "15:00", "18:00", "21:00"],
+      "date": "27/01/2026",
+      "time": [
+        "12:00",
+        "15:00",
+        "18:00",
+        "21:00"
+      ],
       "tags": [
         "IMAX Experience",
         "Family friendly",
@@ -2536,9 +3319,18 @@
         }
       },
       "format": "4DX",
-      "date": "22/01/2026",
-      "time": ["10:30", "13:00", "15:30", "18:00", "20:30"],
-      "tags": ["Reserved seating", "Closed caption"]
+      "date": "26/01/2026",
+      "time": [
+        "10:30",
+        "13:00",
+        "15:30",
+        "18:00",
+        "20:30"
+      ],
+      "tags": [
+        "Reserved seating",
+        "Closed caption"
+      ]
     },
     {
       "id": 78,
@@ -2553,9 +3345,19 @@
         }
       },
       "format": "3D",
-      "date": "25/01/2026",
-      "time": ["10:00", "12:30", "15:00", "17:30", "20:00"],
-      "tags": ["Family friendly", "Reserved seating", "Closed caption"]
+      "date": "29/01/2026",
+      "time": [
+        "10:00",
+        "12:30",
+        "15:00",
+        "17:30",
+        "20:00"
+      ],
+      "tags": [
+        "Family friendly",
+        "Reserved seating",
+        "Closed caption"
+      ]
     },
     {
       "id": 79,
@@ -2570,9 +3372,20 @@
         }
       },
       "format": "IMAX",
-      "date": "21/01/2026",
-      "time": ["10:00", "12:00", "14:00", "16:00", "18:00", "20:00", "22:00"],
-      "tags": ["Reserved seating", "Closed caption"]
+      "date": "25/01/2026",
+      "time": [
+        "10:00",
+        "12:00",
+        "14:00",
+        "16:00",
+        "18:00",
+        "20:00",
+        "22:00"
+      ],
+      "tags": [
+        "Reserved seating",
+        "Closed caption"
+      ]
     },
     {
       "id": 80,
@@ -2587,9 +3400,18 @@
         }
       },
       "format": "3D",
-      "date": "14/01/2026",
-      "time": ["11:30", "14:30", "17:30", "20:30"],
-      "tags": ["Reserved seating", "Closed caption", "Premium sound"]
+      "date": "18/01/2026",
+      "time": [
+        "11:30",
+        "14:30",
+        "17:30",
+        "20:30"
+      ],
+      "tags": [
+        "Reserved seating",
+        "Closed caption",
+        "Premium sound"
+      ]
     },
     {
       "id": 81,
@@ -2604,9 +3426,18 @@
         }
       },
       "format": "2D",
-      "date": "18/01/2026",
-      "time": ["13:00", "16:00", "19:00", "21:30"],
-      "tags": ["Reserved seating", "Closed caption", "Premium sound"]
+      "date": "22/01/2026",
+      "time": [
+        "13:00",
+        "16:00",
+        "19:00",
+        "21:30"
+      ],
+      "tags": [
+        "Reserved seating",
+        "Closed caption",
+        "Premium sound"
+      ]
     },
     {
       "id": 82,
@@ -2621,9 +3452,18 @@
         }
       },
       "format": "IMAX",
-      "date": "16/01/2026",
-      "time": ["12:00", "15:00", "18:00", "21:00"],
-      "tags": ["Reserved seating", "IMAX Experience", "Dolby Atmos"]
+      "date": "20/01/2026",
+      "time": [
+        "12:00",
+        "15:00",
+        "18:00",
+        "21:00"
+      ],
+      "tags": [
+        "Reserved seating",
+        "IMAX Experience",
+        "Dolby Atmos"
+      ]
     },
     {
       "id": 83,
@@ -2638,8 +3478,13 @@
         }
       },
       "format": "3D",
-      "date": "23/01/2026",
-      "time": ["11:00", "14:00", "17:00", "20:00"],
+      "date": "27/01/2026",
+      "time": [
+        "11:00",
+        "14:00",
+        "17:00",
+        "20:00"
+      ],
       "tags": [
         "IMAX Experience",
         "Family friendly",
@@ -2660,9 +3505,19 @@
         }
       },
       "format": "IMAX",
-      "date": "22/01/2026",
-      "time": ["10:00", "12:30", "15:00", "17:30", "20:00"],
-      "tags": ["Reserved seating", "Closed caption", "Premium sound"]
+      "date": "26/01/2026",
+      "time": [
+        "10:00",
+        "12:30",
+        "15:00",
+        "17:30",
+        "20:00"
+      ],
+      "tags": [
+        "Reserved seating",
+        "Closed caption",
+        "Premium sound"
+      ]
     },
     {
       "id": 85,
@@ -2677,8 +3532,16 @@
         }
       },
       "format": "3D",
-      "date": "16/01/2026",
-      "time": ["10:00", "12:00", "14:00", "16:00", "18:00", "20:00", "22:00"],
+      "date": "20/01/2026",
+      "time": [
+        "10:00",
+        "12:00",
+        "14:00",
+        "16:00",
+        "18:00",
+        "20:00",
+        "22:00"
+      ],
       "tags": [
         "IMAX Experience",
         "Family friendly",
@@ -2699,9 +3562,18 @@
         }
       },
       "format": "3D",
-      "date": "18/01/2026",
-      "time": ["10:00", "12:30", "15:00", "17:30", "20:00"],
-      "tags": ["Reserved seating", "Closed caption"]
+      "date": "22/01/2026",
+      "time": [
+        "10:00",
+        "12:30",
+        "15:00",
+        "17:30",
+        "20:00"
+      ],
+      "tags": [
+        "Reserved seating",
+        "Closed caption"
+      ]
     },
     {
       "id": 87,
@@ -2716,9 +3588,18 @@
         }
       },
       "format": "2D",
-      "date": "18/01/2026",
-      "time": ["13:00", "16:00", "19:00", "21:30"],
-      "tags": ["Family friendly", "Reserved seating", "Closed caption"]
+      "date": "22/01/2026",
+      "time": [
+        "13:00",
+        "16:00",
+        "19:00",
+        "21:30"
+      ],
+      "tags": [
+        "Family friendly",
+        "Reserved seating",
+        "Closed caption"
+      ]
     },
     {
       "id": 88,
@@ -2733,8 +3614,13 @@
         }
       },
       "format": "IMAX",
-      "date": "21/01/2026",
-      "time": ["11:30", "14:30", "17:30", "20:30"],
+      "date": "25/01/2026",
+      "time": [
+        "11:30",
+        "14:30",
+        "17:30",
+        "20:30"
+      ],
       "tags": [
         "Reserved seating",
         "3D Experience",
@@ -2754,8 +3640,16 @@
         }
       },
       "format": "3D",
-      "date": "25/01/2026",
-      "time": ["10:00", "12:00", "14:00", "16:00", "18:00", "20:00", "22:00"],
+      "date": "29/01/2026",
+      "time": [
+        "10:00",
+        "12:00",
+        "14:00",
+        "16:00",
+        "18:00",
+        "20:00",
+        "22:00"
+      ],
       "tags": [
         "Family friendly",
         "Closed caption",
@@ -2775,9 +3669,18 @@
         }
       },
       "format": "4DX",
-      "date": "15/01/2026",
-      "time": ["12:00", "15:00", "18:00", "21:00"],
-      "tags": ["4DX Experience", "Motion seats", "Special effects"]
+      "date": "19/01/2026",
+      "time": [
+        "12:00",
+        "15:00",
+        "18:00",
+        "21:00"
+      ],
+      "tags": [
+        "4DX Experience",
+        "Motion seats",
+        "Special effects"
+      ]
     },
     {
       "id": 91,
@@ -2792,8 +3695,14 @@
         }
       },
       "format": "IMAX",
-      "date": "27/01/2026",
-      "time": ["10:00", "12:30", "15:00", "17:30", "20:00"],
+      "date": "31/01/2026",
+      "time": [
+        "10:00",
+        "12:30",
+        "15:00",
+        "17:30",
+        "20:00"
+      ],
       "tags": [
         "Reserved seating",
         "Closed caption",
@@ -2813,8 +3722,13 @@
         }
       },
       "format": "3D",
-      "date": "14/01/2026",
-      "time": ["13:00", "16:00", "19:00", "21:30"],
+      "date": "18/01/2026",
+      "time": [
+        "13:00",
+        "16:00",
+        "19:00",
+        "21:30"
+      ],
       "tags": [
         "IMAX Experience",
         "Family friendly",
@@ -2835,8 +3749,13 @@
         }
       },
       "format": "IMAX",
-      "date": "20/01/2026",
-      "time": ["12:00", "15:00", "18:00", "21:00"],
+      "date": "24/01/2026",
+      "time": [
+        "12:00",
+        "15:00",
+        "18:00",
+        "21:00"
+      ],
       "tags": [
         "Reserved seating",
         "Closed caption",
@@ -2856,9 +3775,19 @@
         }
       },
       "format": "4DX",
-      "date": "21/01/2026",
-      "time": ["10:30", "13:00", "15:30", "18:00", "20:30"],
-      "tags": ["Family friendly", "Reserved seating", "Closed caption"]
+      "date": "25/01/2026",
+      "time": [
+        "10:30",
+        "13:00",
+        "15:30",
+        "18:00",
+        "20:30"
+      ],
+      "tags": [
+        "Family friendly",
+        "Reserved seating",
+        "Closed caption"
+      ]
     },
     {
       "id": 95,
@@ -2873,8 +3802,16 @@
         }
       },
       "format": "2D",
-      "date": "15/01/2026",
-      "time": ["10:00", "12:00", "14:00", "16:00", "18:00", "20:00", "22:00"],
+      "date": "19/01/2026",
+      "time": [
+        "10:00",
+        "12:00",
+        "14:00",
+        "16:00",
+        "18:00",
+        "20:00",
+        "22:00"
+      ],
       "tags": [
         "Reserved seating",
         "Closed caption",
@@ -2894,8 +3831,13 @@
         }
       },
       "format": "3D",
-      "date": "14/01/2026",
-      "time": ["13:00", "16:00", "19:00", "21:30"],
+      "date": "18/01/2026",
+      "time": [
+        "13:00",
+        "16:00",
+        "19:00",
+        "21:30"
+      ],
       "tags": [
         "Reserved seating",
         "Closed caption",
@@ -2915,8 +3857,14 @@
         }
       },
       "format": "4DX",
-      "date": "24/01/2026",
-      "time": ["10:30", "13:00", "15:30", "18:00", "20:30"],
+      "date": "28/01/2026",
+      "time": [
+        "10:30",
+        "13:00",
+        "15:30",
+        "18:00",
+        "20:30"
+      ],
       "tags": [
         "Reserved seating",
         "3D Experience",
@@ -2936,8 +3884,13 @@
         }
       },
       "format": "3D",
-      "date": "21/01/2026",
-      "time": ["13:00", "16:00", "19:00", "21:30"],
+      "date": "25/01/2026",
+      "time": [
+        "13:00",
+        "16:00",
+        "19:00",
+        "21:30"
+      ],
       "tags": [
         "IMAX Experience",
         "Family friendly",
@@ -2958,9 +3911,18 @@
         }
       },
       "format": "3D",
-      "date": "23/01/2026",
-      "time": ["10:00", "12:30", "15:00", "17:30", "20:00"],
-      "tags": ["Reserved seating", "Closed caption"]
+      "date": "27/01/2026",
+      "time": [
+        "10:00",
+        "12:30",
+        "15:00",
+        "17:30",
+        "20:00"
+      ],
+      "tags": [
+        "Reserved seating",
+        "Closed caption"
+      ]
     },
     {
       "id": 100,
@@ -2975,8 +3937,13 @@
         }
       },
       "format": "3D",
-      "date": "17/01/2026",
-      "time": ["13:00", "16:00", "19:00", "21:30"],
+      "date": "21/01/2026",
+      "time": [
+        "13:00",
+        "16:00",
+        "19:00",
+        "21:30"
+      ],
       "tags": [
         "Reserved seating",
         "3D Experience",
@@ -2996,8 +3963,14 @@
         }
       },
       "format": "4DX",
-      "date": "21/01/2026",
-      "time": ["10:30", "13:00", "15:30", "18:00", "20:30"],
+      "date": "25/01/2026",
+      "time": [
+        "10:30",
+        "13:00",
+        "15:30",
+        "18:00",
+        "20:30"
+      ],
       "tags": [
         "Family friendly",
         "Closed caption",
@@ -3017,9 +3990,20 @@
         }
       },
       "format": "2D",
-      "date": "15/01/2026",
-      "time": ["10:00", "12:00", "14:00", "16:00", "18:00", "20:00", "22:00"],
-      "tags": ["Reserved seating", "Closed caption"]
+      "date": "19/01/2026",
+      "time": [
+        "10:00",
+        "12:00",
+        "14:00",
+        "16:00",
+        "18:00",
+        "20:00",
+        "22:00"
+      ],
+      "tags": [
+        "Reserved seating",
+        "Closed caption"
+      ]
     },
     {
       "id": 103,
@@ -3034,8 +4018,14 @@
         }
       },
       "format": "2D",
-      "date": "16/01/2026",
-      "time": ["10:30", "13:00", "15:30", "18:00", "20:30"],
+      "date": "20/01/2026",
+      "time": [
+        "10:30",
+        "13:00",
+        "15:30",
+        "18:00",
+        "20:30"
+      ],
       "tags": [
         "IMAX Experience",
         "Family friendly",
@@ -3056,9 +4046,17 @@
         }
       },
       "format": "IMAX",
-      "date": "16/01/2026",
-      "time": ["12:00", "15:00", "18:00", "21:00"],
-      "tags": ["Reserved seating", "Closed caption"]
+      "date": "20/01/2026",
+      "time": [
+        "12:00",
+        "15:00",
+        "18:00",
+        "21:00"
+      ],
+      "tags": [
+        "Reserved seating",
+        "Closed caption"
+      ]
     },
     {
       "id": 105,
@@ -3073,9 +4071,18 @@
         }
       },
       "format": "IMAX",
-      "date": "22/01/2026",
-      "time": ["12:00", "15:00", "18:00", "21:00"],
-      "tags": ["4DX Experience", "Motion seats", "Special effects"]
+      "date": "26/01/2026",
+      "time": [
+        "12:00",
+        "15:00",
+        "18:00",
+        "21:00"
+      ],
+      "tags": [
+        "4DX Experience",
+        "Motion seats",
+        "Special effects"
+      ]
     },
     {
       "id": 106,
@@ -3090,9 +4097,19 @@
         }
       },
       "format": "2D",
-      "date": "21/01/2026",
-      "time": ["10:00", "12:30", "15:00", "17:30", "20:00"],
-      "tags": ["Reserved seating", "IMAX Experience", "Dolby Atmos"]
+      "date": "25/01/2026",
+      "time": [
+        "10:00",
+        "12:30",
+        "15:00",
+        "17:30",
+        "20:00"
+      ],
+      "tags": [
+        "Reserved seating",
+        "IMAX Experience",
+        "Dolby Atmos"
+      ]
     },
     {
       "id": 107,
@@ -3107,9 +4124,19 @@
         }
       },
       "format": "IMAX",
-      "date": "25/01/2026",
-      "time": ["10:00", "12:30", "15:00", "17:30", "20:00"],
-      "tags": ["Reserved seating", "Dolby Atmos", "Premium experience"]
+      "date": "29/01/2026",
+      "time": [
+        "10:00",
+        "12:30",
+        "15:00",
+        "17:30",
+        "20:00"
+      ],
+      "tags": [
+        "Reserved seating",
+        "Dolby Atmos",
+        "Premium experience"
+      ]
     },
     {
       "id": 108,
@@ -3124,9 +4151,17 @@
         }
       },
       "format": "IMAX",
-      "date": "21/01/2026",
-      "time": ["13:00", "16:00", "19:00", "21:30"],
-      "tags": ["Reserved seating", "Closed caption"]
+      "date": "25/01/2026",
+      "time": [
+        "13:00",
+        "16:00",
+        "19:00",
+        "21:30"
+      ],
+      "tags": [
+        "Reserved seating",
+        "Closed caption"
+      ]
     },
     {
       "id": 109,
@@ -3141,9 +4176,18 @@
         }
       },
       "format": "2D",
-      "date": "26/01/2026",
-      "time": ["12:00", "15:00", "18:00", "21:00"],
-      "tags": ["Reserved seating", "Dolby Atmos", "Premium experience"]
+      "date": "30/01/2026",
+      "time": [
+        "12:00",
+        "15:00",
+        "18:00",
+        "21:00"
+      ],
+      "tags": [
+        "Reserved seating",
+        "Dolby Atmos",
+        "Premium experience"
+      ]
     },
     {
       "id": 110,
@@ -3158,8 +4202,13 @@
         }
       },
       "format": "3D",
-      "date": "17/01/2026",
-      "time": ["11:00", "14:00", "17:00", "20:00"],
+      "date": "21/01/2026",
+      "time": [
+        "11:00",
+        "14:00",
+        "17:00",
+        "20:00"
+      ],
       "tags": [
         "Family friendly",
         "Closed caption",
@@ -3179,9 +4228,18 @@
         }
       },
       "format": "2D",
-      "date": "14/01/2026",
-      "time": ["10:00", "12:30", "15:00", "17:30", "20:00"],
-      "tags": ["Reserved seating", "Closed caption"]
+      "date": "18/01/2026",
+      "time": [
+        "10:00",
+        "12:30",
+        "15:00",
+        "17:30",
+        "20:00"
+      ],
+      "tags": [
+        "Reserved seating",
+        "Closed caption"
+      ]
     },
     {
       "id": 112,
@@ -3196,8 +4254,14 @@
         }
       },
       "format": "4DX",
-      "date": "27/01/2026",
-      "time": ["10:30", "13:00", "15:30", "18:00", "20:30"],
+      "date": "31/01/2026",
+      "time": [
+        "10:30",
+        "13:00",
+        "15:30",
+        "18:00",
+        "20:30"
+      ],
       "tags": [
         "Family friendly",
         "Closed caption",
@@ -3217,8 +4281,13 @@
         }
       },
       "format": "4DX",
-      "date": "24/01/2026",
-      "time": ["11:00", "14:00", "17:00", "20:00"],
+      "date": "28/01/2026",
+      "time": [
+        "11:00",
+        "14:00",
+        "17:00",
+        "20:00"
+      ],
       "tags": [
         "Family friendly",
         "Closed caption",
@@ -3238,9 +4307,21 @@
         }
       },
       "format": "4DX",
-      "date": "27/01/2026",
-      "time": ["10:00", "12:00", "14:00", "16:00", "18:00", "20:00", "22:00"],
-      "tags": ["4DX Experience", "Motion seats", "Special effects"]
+      "date": "31/01/2026",
+      "time": [
+        "10:00",
+        "12:00",
+        "14:00",
+        "16:00",
+        "18:00",
+        "20:00",
+        "22:00"
+      ],
+      "tags": [
+        "4DX Experience",
+        "Motion seats",
+        "Special effects"
+      ]
     },
     {
       "id": 115,
@@ -3255,9 +4336,19 @@
         }
       },
       "format": "IMAX",
-      "date": "19/01/2026",
-      "time": ["10:00", "12:30", "15:00", "17:30", "20:00"],
-      "tags": ["Reserved seating", "Dolby Atmos", "Premium experience"]
+      "date": "23/01/2026",
+      "time": [
+        "10:00",
+        "12:30",
+        "15:00",
+        "17:30",
+        "20:00"
+      ],
+      "tags": [
+        "Reserved seating",
+        "Dolby Atmos",
+        "Premium experience"
+      ]
     },
     {
       "id": 116,
@@ -3272,9 +4363,20 @@
         }
       },
       "format": "4DX",
-      "date": "23/01/2026",
-      "time": ["10:00", "12:00", "14:00", "16:00", "18:00", "20:00", "22:00"],
-      "tags": ["Reserved seating", "Closed caption"]
+      "date": "27/01/2026",
+      "time": [
+        "10:00",
+        "12:00",
+        "14:00",
+        "16:00",
+        "18:00",
+        "20:00",
+        "22:00"
+      ],
+      "tags": [
+        "Reserved seating",
+        "Closed caption"
+      ]
     },
     {
       "id": 117,
@@ -3289,9 +4391,18 @@
         }
       },
       "format": "2D",
-      "date": "25/01/2026",
-      "time": ["11:30", "14:30", "17:30", "20:30"],
-      "tags": ["Family friendly", "Reserved seating", "Closed caption"]
+      "date": "29/01/2026",
+      "time": [
+        "11:30",
+        "14:30",
+        "17:30",
+        "20:30"
+      ],
+      "tags": [
+        "Family friendly",
+        "Reserved seating",
+        "Closed caption"
+      ]
     },
     {
       "id": 118,
@@ -3306,8 +4417,13 @@
         }
       },
       "format": "3D",
-      "date": "23/01/2026",
-      "time": ["12:00", "15:00", "18:00", "21:00"],
+      "date": "27/01/2026",
+      "time": [
+        "12:00",
+        "15:00",
+        "18:00",
+        "21:00"
+      ],
       "tags": [
         "IMAX Experience",
         "Family friendly",
@@ -3328,9 +4444,19 @@
         }
       },
       "format": "2D",
-      "date": "25/01/2026",
-      "time": ["10:00", "12:30", "15:00", "17:30", "20:00"],
-      "tags": ["Reserved seating", "IMAX Experience", "Dolby Atmos"]
+      "date": "29/01/2026",
+      "time": [
+        "10:00",
+        "12:30",
+        "15:00",
+        "17:30",
+        "20:00"
+      ],
+      "tags": [
+        "Reserved seating",
+        "IMAX Experience",
+        "Dolby Atmos"
+      ]
     },
     {
       "id": 120,
@@ -3345,9 +4471,18 @@
         }
       },
       "format": "4DX",
-      "date": "16/01/2026",
-      "time": ["13:00", "16:00", "19:00", "21:30"],
-      "tags": ["Reserved seating", "Closed caption", "Premium sound"]
+      "date": "20/01/2026",
+      "time": [
+        "13:00",
+        "16:00",
+        "19:00",
+        "21:30"
+      ],
+      "tags": [
+        "Reserved seating",
+        "Closed caption",
+        "Premium sound"
+      ]
     },
     {
       "id": 121,
@@ -3362,9 +4497,18 @@
         }
       },
       "format": "4DX",
-      "date": "21/01/2026",
-      "time": ["13:00", "16:00", "19:00", "21:30"],
-      "tags": ["4DX Experience", "Motion seats", "Special effects"]
+      "date": "25/01/2026",
+      "time": [
+        "13:00",
+        "16:00",
+        "19:00",
+        "21:30"
+      ],
+      "tags": [
+        "4DX Experience",
+        "Motion seats",
+        "Special effects"
+      ]
     },
     {
       "id": 122,
@@ -3379,9 +4523,18 @@
         }
       },
       "format": "IMAX",
-      "date": "22/01/2026",
-      "time": ["10:00", "12:30", "15:00", "17:30", "20:00"],
-      "tags": ["Reserved seating", "Closed caption"]
+      "date": "26/01/2026",
+      "time": [
+        "10:00",
+        "12:30",
+        "15:00",
+        "17:30",
+        "20:00"
+      ],
+      "tags": [
+        "Reserved seating",
+        "Closed caption"
+      ]
     },
     {
       "id": 123,
@@ -3396,8 +4549,16 @@
         }
       },
       "format": "2D",
-      "date": "27/01/2026",
-      "time": ["10:00", "12:00", "14:00", "16:00", "18:00", "20:00", "22:00"],
+      "date": "31/01/2026",
+      "time": [
+        "10:00",
+        "12:00",
+        "14:00",
+        "16:00",
+        "18:00",
+        "20:00",
+        "22:00"
+      ],
       "tags": [
         "Family friendly",
         "Closed caption",
@@ -3417,8 +4578,13 @@
         }
       },
       "format": "IMAX",
-      "date": "20/01/2026",
-      "time": ["11:30", "14:30", "17:30", "20:30"],
+      "date": "24/01/2026",
+      "time": [
+        "11:30",
+        "14:30",
+        "17:30",
+        "20:30"
+      ],
       "tags": [
         "Reserved seating",
         "Closed caption",
@@ -3438,9 +4604,21 @@
         }
       },
       "format": "4DX",
-      "date": "22/01/2026",
-      "time": ["10:00", "12:00", "14:00", "16:00", "18:00", "20:00", "22:00"],
-      "tags": ["Reserved seating", "IMAX Experience", "Dolby Atmos"]
+      "date": "26/01/2026",
+      "time": [
+        "10:00",
+        "12:00",
+        "14:00",
+        "16:00",
+        "18:00",
+        "20:00",
+        "22:00"
+      ],
+      "tags": [
+        "Reserved seating",
+        "IMAX Experience",
+        "Dolby Atmos"
+      ]
     },
     {
       "id": 126,
@@ -3455,8 +4633,13 @@
         }
       },
       "format": "IMAX",
-      "date": "22/01/2026",
-      "time": ["11:00", "14:00", "17:00", "20:00"],
+      "date": "26/01/2026",
+      "time": [
+        "11:00",
+        "14:00",
+        "17:00",
+        "20:00"
+      ],
       "tags": [
         "Reserved seating",
         "3D Experience",
@@ -3476,9 +4659,19 @@
         }
       },
       "format": "4DX",
-      "date": "21/01/2026",
-      "time": ["10:30", "13:00", "15:30", "18:00", "20:30"],
-      "tags": ["Reserved seating", "IMAX Experience", "Dolby Atmos"]
+      "date": "25/01/2026",
+      "time": [
+        "10:30",
+        "13:00",
+        "15:30",
+        "18:00",
+        "20:30"
+      ],
+      "tags": [
+        "Reserved seating",
+        "IMAX Experience",
+        "Dolby Atmos"
+      ]
     },
     {
       "id": 128,
@@ -3493,8 +4686,16 @@
         }
       },
       "format": "IMAX",
-      "date": "15/01/2026",
-      "time": ["10:00", "12:00", "14:00", "16:00", "18:00", "20:00", "22:00"],
+      "date": "19/01/2026",
+      "time": [
+        "10:00",
+        "12:00",
+        "14:00",
+        "16:00",
+        "18:00",
+        "20:00",
+        "22:00"
+      ],
       "tags": [
         "Reserved seating",
         "3D Experience",
@@ -3514,8 +4715,14 @@
         }
       },
       "format": "2D",
-      "date": "24/01/2026",
-      "time": ["10:30", "13:00", "15:30", "18:00", "20:30"],
+      "date": "28/01/2026",
+      "time": [
+        "10:30",
+        "13:00",
+        "15:30",
+        "18:00",
+        "20:30"
+      ],
       "tags": [
         "Family friendly",
         "Closed caption",
@@ -3535,9 +4742,18 @@
         }
       },
       "format": "IMAX",
-      "date": "24/01/2026",
-      "time": ["13:00", "16:00", "19:00", "21:30"],
-      "tags": ["Reserved seating", "IMAX Experience", "Dolby Atmos"]
+      "date": "28/01/2026",
+      "time": [
+        "13:00",
+        "16:00",
+        "19:00",
+        "21:30"
+      ],
+      "tags": [
+        "Reserved seating",
+        "IMAX Experience",
+        "Dolby Atmos"
+      ]
     },
     {
       "id": 131,
@@ -3552,9 +4768,18 @@
         }
       },
       "format": "IMAX",
-      "date": "22/01/2026",
-      "time": ["12:00", "15:00", "18:00", "21:00"],
-      "tags": ["Reserved seating", "Closed caption", "Premium sound"]
+      "date": "26/01/2026",
+      "time": [
+        "12:00",
+        "15:00",
+        "18:00",
+        "21:00"
+      ],
+      "tags": [
+        "Reserved seating",
+        "Closed caption",
+        "Premium sound"
+      ]
     },
     {
       "id": 132,
@@ -3569,8 +4794,14 @@
         }
       },
       "format": "IMAX",
-      "date": "23/01/2026",
-      "time": ["10:30", "13:00", "15:30", "18:00", "20:30"],
+      "date": "27/01/2026",
+      "time": [
+        "10:30",
+        "13:00",
+        "15:30",
+        "18:00",
+        "20:30"
+      ],
       "tags": [
         "Reserved seating",
         "3D Experience",
@@ -3590,9 +4821,19 @@
         }
       },
       "format": "IMAX",
-      "date": "20/01/2026",
-      "time": ["10:00", "12:30", "15:00", "17:30", "20:00"],
-      "tags": ["Reserved seating", "Closed caption", "Premium sound"]
+      "date": "24/01/2026",
+      "time": [
+        "10:00",
+        "12:30",
+        "15:00",
+        "17:30",
+        "20:00"
+      ],
+      "tags": [
+        "Reserved seating",
+        "Closed caption",
+        "Premium sound"
+      ]
     },
     {
       "id": 134,
@@ -3607,8 +4848,16 @@
         }
       },
       "format": "IMAX",
-      "date": "14/01/2026",
-      "time": ["10:00", "12:00", "14:00", "16:00", "18:00", "20:00", "22:00"],
+      "date": "18/01/2026",
+      "time": [
+        "10:00",
+        "12:00",
+        "14:00",
+        "16:00",
+        "18:00",
+        "20:00",
+        "22:00"
+      ],
       "tags": [
         "Reserved seating",
         "3D Experience",
@@ -3628,9 +4877,19 @@
         }
       },
       "format": "2D",
-      "date": "27/01/2026",
-      "time": ["10:30", "13:00", "15:30", "18:00", "20:30"],
-      "tags": ["Reserved seating", "IMAX Experience", "Dolby Atmos"]
+      "date": "31/01/2026",
+      "time": [
+        "10:30",
+        "13:00",
+        "15:30",
+        "18:00",
+        "20:30"
+      ],
+      "tags": [
+        "Reserved seating",
+        "IMAX Experience",
+        "Dolby Atmos"
+      ]
     },
     {
       "id": 136,
@@ -3645,8 +4904,16 @@
         }
       },
       "format": "4DX",
-      "date": "24/01/2026",
-      "time": ["10:00", "12:00", "14:00", "16:00", "18:00", "20:00", "22:00"],
+      "date": "28/01/2026",
+      "time": [
+        "10:00",
+        "12:00",
+        "14:00",
+        "16:00",
+        "18:00",
+        "20:00",
+        "22:00"
+      ],
       "tags": [
         "IMAX Experience",
         "Family friendly",
@@ -3667,8 +4934,13 @@
         }
       },
       "format": "2D",
-      "date": "18/01/2026",
-      "time": ["11:00", "14:00", "17:00", "20:00"],
+      "date": "22/01/2026",
+      "time": [
+        "11:00",
+        "14:00",
+        "17:00",
+        "20:00"
+      ],
       "tags": [
         "Family friendly",
         "Closed caption",
@@ -3688,9 +4960,17 @@
         }
       },
       "format": "3D",
-      "date": "17/01/2026",
-      "time": ["11:00", "14:00", "17:00", "20:00"],
-      "tags": ["Reserved seating", "Closed caption"]
+      "date": "21/01/2026",
+      "time": [
+        "11:00",
+        "14:00",
+        "17:00",
+        "20:00"
+      ],
+      "tags": [
+        "Reserved seating",
+        "Closed caption"
+      ]
     },
     {
       "id": 139,
@@ -3705,8 +4985,13 @@
         }
       },
       "format": "4DX",
-      "date": "27/01/2026",
-      "time": ["13:00", "16:00", "19:00", "21:30"],
+      "date": "31/01/2026",
+      "time": [
+        "13:00",
+        "16:00",
+        "19:00",
+        "21:30"
+      ],
       "tags": [
         "Reserved seating",
         "Closed caption",
@@ -3726,8 +5011,16 @@
         }
       },
       "format": "4DX",
-      "date": "14/01/2026",
-      "time": ["10:00", "12:00", "14:00", "16:00", "18:00", "20:00", "22:00"],
+      "date": "18/01/2026",
+      "time": [
+        "10:00",
+        "12:00",
+        "14:00",
+        "16:00",
+        "18:00",
+        "20:00",
+        "22:00"
+      ],
       "tags": [
         "Family friendly",
         "Closed caption",
